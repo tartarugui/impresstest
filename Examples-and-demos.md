@@ -1,9 +1,8 @@
-
-### Official demo
+## Official demo
 
 [impress.js demo](http://bartaz.github.com/impress.js) by [@bartaz](http://twitter.com/bartaz)
 
-### Presentations
+## Presentations
 
 [CSS 3D transforms](http://bartaz.github.com/meetjs/css3d-summit) from [meet.js summit](http://summit.meetjs.pl) by [@bartaz](http://twitter.com/bartaz)
 
@@ -23,7 +22,7 @@
 
 [HTML5 Future : to infinity and beyond!](http://sylvainw.github.com/HTML5-Future/index_en.html) by Sylvain Weber [@sylvainw](http://twitter.com/sylvainw)
 
-### Websites and portfolios
+## Websites and portfolios
 
 [lioshi.com](http://lioshi.com) by @lioshi
 
@@ -37,6 +36,7 @@
 
 [t3kila.com](http://www.t3kila.com) by Romain Wurtz
 
+## Contribute
 
 If you have used impress.js in your presentation (or website) and would like to have it listed here,
 feel free to edit this page.
