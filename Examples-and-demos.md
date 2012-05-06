@@ -36,6 +36,8 @@
 
 [t3kila.com](http://www.t3kila.com) by Romain Wurtz
 
+[almostcomplete.co.uk] (http://www.almostcomplete.co.uk) by [@middlesound](http://twitter.com/middlesound)
+
 ## Contribute
 
 If you have used impress.js in your presentation (or website) and would like to have it listed here,
