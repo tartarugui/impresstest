@@ -22,6 +22,8 @@
 
 [HTML5 Future : to infinity and beyond!](http://sylvainw.github.com/HTML5-Future/index_en.html) by Sylvain Weber [@sylvainw](http://twitter.com/sylvainw)
 
+[WordPress 201: Performance & Security](http://jasoncosper.com/talks/wcphx/wp201/) by Jason Cosper [@boogah](http://twitter.com/boogah)
+
 ## Websites and portfolios
 
 [lioshi.com](http://lioshi.com) by @lioshi
