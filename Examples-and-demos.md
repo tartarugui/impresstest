@@ -38,6 +38,8 @@
 
 [almostcomplete.co.uk] (http://www.almostcomplete.co.uk) by [@middlesound](http://twitter.com/middlesound)
 
+[iWed.in](http://www.iwed.in) by [@ManiKantaG](http://twitter.com/ManiKantaG) (intro animation using impress, with some custom code for autoplay, pause & skip)
+
 ## Contribute
 
 If you have used impress.js in your presentation (or website) and would like to have it listed here,
