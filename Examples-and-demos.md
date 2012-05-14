@@ -42,6 +42,8 @@
 
 [iWed.in](http://www.iwed.in) by [@ManiKantaG](http://twitter.com/ManiKantaG) (intro animation using impress, with some custom code for autoplay, pause & skip)
 
+[matthewfowles.net](http://matthewfowles.net) by Matthew Fowles
+
 ## Contribute
 
 If you have used impress.js in your presentation (or website) and would like to have it listed here,
