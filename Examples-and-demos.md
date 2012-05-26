@@ -14,8 +14,6 @@
 
 [Asynchronous JavaScript](http://www.medikoo.com/asynchronous-javascript/3d/) by Mariusz Nowak [@medikoo](http://twitter.com/medikoo)
 
-[Introduction to Responsive Design](http://www.alecrust.com/factory/rd-presentation/) by Alec Rust [@alecrust] (http://twitter.com/alecrust)
-
 [Bonne année 2012](http://duael.fr/voeux/2012/) by Edouard Cunibil [@DuaelFr](http://twitter.com/DuaelFr)
 
 [Careers in Free and Open Source Software](http://exequiel09.github.com/symposium-presentation/) by Exequiel Ceasar Navarrete [@ichigo1411](http://twitter.com/ichigo1411)
