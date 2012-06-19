@@ -4,7 +4,7 @@
 
 ## Authoring tools
 
-[Strut](http://tantaman.github.com/Strut/client/web/index.html) ([source](https://github.com/tantaman/Strut)) seems more advanced because of a cleaner extendable code base and it’s fully client-side
+[Strut](http://tantaman.github.com/Strut/client/web/index.html) ([source](https://github.com/tantaman/Strut)) clean extendable code base, fully client-side
 
 [Impressionist](http://hsivaram.com/impressionist/0.1/) ([source](https://github.com/hsivaramx/Impressionist)) less active development lately
 
