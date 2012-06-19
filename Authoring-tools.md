@@ -1,3 +1,0 @@
-The two most usable authoring tools right now are [Strut](http://tantaman.github.com/Strut/client/web/index.html) ([source](https://github.com/tantaman/Strut)) and [Impressionist](http://hsivaram.com/impressionist/0.1/) ([source](https://github.com/hsivaramx/Impressionist)). Strut seems a bit more advanced because of a cleaner extendable code base and it’s also fully client-side.
-
-(More discussion on the [authoring tool issue](https://github.com/bartaz/impress.js/issues/5).)
