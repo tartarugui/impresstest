@@ -2,6 +2,15 @@
 
 [impress.js demo](http://bartaz.github.com/impress.js) by [@bartaz](http://twitter.com/bartaz)
 
+## Authoring tools
+
+[Strut](http://tantaman.github.com/Strut/client/web/index.html) ([source](https://github.com/tantaman/Strut)) seems more advanced because of a cleaner extendable code base and it’s fully client-side
+
+[Impressionist](http://hsivaram.com/impressionist/0.1/) ([source](https://github.com/hsivaramx/Impressionist)) less active development lately
+
+Those are the two most usable authoring tools right now. More on the [authoring tool issue](https://github.com/bartaz/impress.js/issues/5).
+
+
 ## Presentations
 
 [CSS 3D transforms](http://bartaz.github.com/meetjs/css3d-summit) from [meet.js summit](http://summit.meetjs.pl) by [@bartaz](http://twitter.com/bartaz)
