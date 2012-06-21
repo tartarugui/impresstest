@@ -31,6 +31,8 @@ Those are the two most usable authoring tools right now. More on the [authoring 
 
 [WordPress 201: Performance & Security](http://jasoncosper.com/talks/wcphx/wp201/) by Jason Cosper [@boogah](http://twitter.com/boogah)
 
+[Intro to Node.js](http://introtonode.herokuapp.com/) ([src](https://github.com/leisms/IntroToNode)) by Le Zhang [@le_isms](http://twitter.com/le_isms)
+
 ## Websites and portfolios
 
 for those who are new to jquery world  (and those who loved inspire.js unreasonably like me,simply copy the official site and make minor edits here and there..Example
