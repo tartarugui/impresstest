@@ -10,6 +10,8 @@
 
 Those are the two most usable authoring tools right now. More on the [authoring tool issue](https://github.com/bartaz/impress.js/issues/5).
 
+[impress.js S9 Template Pack](http://geraldb.github.com/slideshow-impress.js): Let's you write your impress.js slides in Markdown or Textile. Uses the Slide Show (S9) Ruby gem to generate your deck.
+
 
 ## Presentations
 
