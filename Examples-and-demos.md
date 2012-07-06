@@ -60,6 +60,8 @@ for those who are new to jquery world  (and those who loved inspire.js unreasona
 
 [jasminehsu.net](http://www.jasminehsu.net) by Jasmine Hsu
 
+[luchoster.net](http://luchoster.net) by [@luchoster](http://twitter.com/luchoster)
+
 ## Contribute
 
 If you have used impress.js in your presentation (or website) and would like to have it listed here,
