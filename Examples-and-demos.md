@@ -35,6 +35,8 @@ Those are the two most usable authoring tools right now. More on the [authoring 
 
 [Intro to Node.js](http://introtonode.herokuapp.com/) ([src](https://github.com/leisms/IntroToNode)) by Le Zhang [@le_isms](http://twitter.com/le_isms)
 
+[The Revolutionary CSS3: a non-technical intro to CSS3](http://scottcheng.github.com/the-revolutionary-css3-impressjs/) by Scott Cheng
+
 ## Websites and portfolios
 
 for those who are new to jquery world  (and those who loved inspire.js unreasonably like me,simply copy the official site and make minor edits here and there..Example
