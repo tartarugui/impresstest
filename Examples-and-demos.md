@@ -39,8 +39,6 @@ Those are the two most usable authoring tools right now. More on the [authoring 
 
 ## Websites and portfolios
 
-for those who are new to jquery world  (and those who loved inspire.js unreasonably like me,simply copy the official site and make minor edits here and there..Example
-[http://picturequizworld.blogspot.com/p/shrenuj-parekh.html](http://picturequizworld.blogspot.com/p/shrenuj-parekh.html) by [Shrenuj](https://www.facebook.com/shrenuj.parekh)
 
 [lioshi.com](http://lioshi.com) by @lioshi
 
