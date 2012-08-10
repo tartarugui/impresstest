@@ -62,7 +62,7 @@ Those are the two most usable authoring tools right now. More on the [authoring 
 
 [luchoster.net](http://luchoster.net) by [@luchoster](http://twitter.com/luchoster)
 
-[Word/For Word vol. 20](http://www.wordforword.info/vol20) by [@coreylafferty](http://twitter.com/coreylafferty)
+[Word/For Word, a journal of new writing, issue 20](http://www.wordforword.info/vol20) by [@coreylafferty](http://twitter.com/coreylafferty)
 
 ## Contribute
 
