@@ -40,6 +40,8 @@ Those are the two most usable authoring tools right now. More on the [authoring 
 ## Websites and portfolios
 
 
+[valeka.net](http://valeka.net) by [@Valeka](http://twitter.com/ValekaVale)
+
 [lioshi.com](http://lioshi.com) by @lioshi
 
 [alingham.com](http://www.alingham.com) by Al Ingham [@alingham](http://twitter.com/alingham)
