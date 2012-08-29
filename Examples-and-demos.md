@@ -66,7 +66,7 @@ Those are the two most usable authoring tools right now. More on the [authoring 
 
 [Word/For Word, a journal of new writing, issue 20](http://www.wordforword.info/vol20) by [@coreylafferty](http://twitter.com/coreylafferty)
 
-[AVA Bausoftware](http://www.ava-bausoftware.de) by [ARCHITEXT Software GmbH](http://www.architext.de)
+[AVA Bausoftware](http://www.ava-bausoftware.de) by ARCHITEXT Software GmbH
 
 ## Contribute
 
