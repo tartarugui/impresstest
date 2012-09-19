@@ -37,6 +37,8 @@ Those are the two most usable authoring tools right now. More on the [authoring 
 
 [The Revolutionary CSS3: a non-technical intro to CSS3](http://scottcheng.github.com/the-revolutionary-css3-impressjs/) by Scott Cheng
 
+[Liquid Web Services](http://www.inf.usi.ch/faculty/pautasso/talks/2012/ifip-wg-sos/liquidws.html) by Cesare Pautasso [@pautasso](http://twitter.com/pautasso)
+
 ## Websites and portfolios
 
 
