@@ -1,4 +1,4 @@
-## Official demo1
+## Official demo
 
 [impress.js demo](http://bartaz.github.com/impress.js) by [@bartaz](http://twitter.com/bartaz)
 
