@@ -71,6 +71,9 @@ Those are the two most usable authoring tools right now. More on the [authoring 
 [AVA Bausoftware](http://www.ava-bausoftware.de) by ARCHITEXT Software GmbH
 
 [I hate it here (blogpost)](http://paralleltransport.blogspot.com/2012/08/i-hate-it-here.html#more) by [Kartik Prabhu](http://paralleltransport.blogspot.com/)
+
+[Towel Day Italy](http://www.towelday.it) by [@orazio_nelson](http://twitter.com/orazio_nelson)
+
 ## Contribute
 
 If you have used impress.js in your presentation (or website) and would like to have it listed here,
