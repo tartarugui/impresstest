@@ -39,6 +39,8 @@ Those are the two most usable authoring tools right now. More on the [authoring 
 
 [Liquid Web Services](http://www.inf.usi.ch/faculty/pautasso/talks/2012/ifip-wg-sos/liquidws.html) by Cesare Pautasso [@pautasso](http://twitter.com/pautasso)
 
+[Transactions for the REST of us](http://www.inf.usi.ch/faculty/pautasso/talks/2012/soa-cloud-rest-tcc/rest-tcc.html) by Cesare Pautasso and Guy Pardon
+
 ## Websites and portfolios
 
 
