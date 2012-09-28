@@ -41,6 +41,11 @@ Those are the two most usable authoring tools right now. More on the [authoring 
 
 [Transactions for the REST of us](http://www.inf.usi.ch/faculty/pautasso/talks/2012/soa-cloud-rest-tcc/rest-tcc.html) by Cesare Pautasso and Guy Pardon
 
+[Transactions for the REST of us](http://www.inf.usi.ch/faculty/pautasso/talks/2012/soa-cloud-rest-tcc/rest-tcc.html) by Cesare Pautasso and Guy Pardon
+
+[Git, the stupid content tracker, for the novice and the semi-experience git user](http://aht.github.com/whatisgit/) by [@chickamade](http://twitter.com/chickamade)
+
+
 ## Websites and portfolios
 
 
