@@ -67,8 +67,6 @@ Those are the two most usable authoring tools right now. More on the [authoring 
 
 [iWed.in](http://www.iwed.in) by [@ManiKantaG](http://twitter.com/ManiKantaG) (intro animation using impress, with some custom code for autoplay, pause & skip)
 
-[matthewfowles.net](http://matthewfowles.net) by Matthew Fowles
-
 [jasminehsu.net](http://www.jasminehsu.net) by Jasmine Hsu
 
 [luchoster.net](http://luchoster.net) by [@luchoster](http://twitter.com/luchoster)
