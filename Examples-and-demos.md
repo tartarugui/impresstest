@@ -79,6 +79,8 @@ Those are the two most usable authoring tools right now. More on the [authoring 
 
 [Towel Day Italy](http://www.towelday.it) by [@orazio_nelson](http://twitter.com/orazio_nelson)
 
+[5 Voies de Recherche](http://5voiesderecherche.com/) - information about breast cancer by [ARC Fondation](http://www.arc-cancer.net)
+
 ## Contribute
 
 If you have used impress.js in your presentation (or website) and would like to have it listed here,
