@@ -45,6 +45,7 @@ Those are the two most usable authoring tools right now. More on the [authoring 
 
 [Git, the stupid content tracker, for the novice and the semi-experience git user](http://aht.github.com/whatisgit/) by [@chickamade](http://twitter.com/chickamade)
 
+[YUI3's Use and Add Methods](http://youtu.be/1iDt5mpaNXM) by Kevin Lamping
 
 ## Websites and portfolios
 
