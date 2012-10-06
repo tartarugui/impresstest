@@ -47,6 +47,7 @@ Those are the two most usable authoring tools right now. More on the [authoring 
 
 [YUI3's Use and Add Methods](http://youtu.be/1iDt5mpaNXM) by @klamping
 
+[Gauge conditions and blackhole stability](http://paralleltransport.blogspot.com/2012/10/gauge-conditions-stability-in-gr.html#more) by [Kartik Prabhu](http://paralleltransport.blogspot.com)
 ## Websites and portfolios
 
 
