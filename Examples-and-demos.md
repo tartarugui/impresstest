@@ -12,7 +12,6 @@ Those are the two most usable authoring tools right now. More on the [authoring 
 
 [impress.js S9 Template Pack](http://geraldb.github.com/slideshow-impress.js): Let's you write your impress.js slides in Markdown or Textile. Uses the Slide Show (S9) Ruby gem to generate your deck.
 
-
 ## Presentations
 
 [CSS 3D transforms](http://bartaz.github.com/meetjs/css3d-summit) from [meet.js summit](http://summit.meetjs.pl) by [@bartaz](http://twitter.com/bartaz)
@@ -51,6 +50,7 @@ Those are the two most usable authoring tools right now. More on the [authoring 
 
 ## Websites and portfolios
 
+[impressr](http://timheckel.github.com/impressr/): Allows real-time syncing of a presentation to all subscribed clients by @TimHeckel
 
 [valeka.net](http://valeka.net) by [@Valeka](http://twitter.com/ValekaVale)
 
