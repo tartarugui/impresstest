@@ -48,6 +48,8 @@ Those are the two most usable authoring tools right now. More on the [authoring 
 
 [Les User Agents, c'est le mal !](http://rudyonweb.net/f/useragent/) [fr] by [Rudy Rigot](http://rudyonweb.net)
 
+[Speeding Up Drupal](http://ewillhite.github.com/speed-drupal) by Evan Willhite [@evanmwillhite](http://twitter.com/evanmwillhite)
+
 ## Websites and portfolios
 
 [impressr](http://timheckel.github.com/impressr/): Allows real-time syncing of a presentation to all subscribed clients by @TimHeckel
