@@ -52,7 +52,7 @@ Those are the two most usable authoring tools right now. More on the [authoring 
 
 ## Websites and portfolios
 
-[impressr](http://timheckel.github.com/impressr/): Allows real-time syncing of a presentation to all subscribed clients by @TimHeckel
+[Beyond Weight-Loss](http://beyondweight-loss.net): Just another amateur trying to build webpage by David Meads
 
 [valeka.net](http://valeka.net) by [@Valeka](http://twitter.com/ValekaVale)
 
