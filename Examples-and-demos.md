@@ -50,6 +50,8 @@ Those are the two most usable authoring tools right now. More on the [authoring 
 
 [Speeding Up Drupal](http://ewillhite.github.com/speed-drupal) by Evan Willhite [@evanmwillhite](http://twitter.com/evanmwillhite)
 
+[Take a sip of CoffeeScript](http://madsgraphics.github.com/prez-coffeescript/) [fr] by [@madsgraphics](https://twitter.com/madsgraphics)
+
 ## Websites and portfolios
 
 [Beyond Weight-Loss](http://beyondweight-loss.net): Just another amateur trying to build webpage by David Meads
