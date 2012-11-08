@@ -54,6 +54,8 @@ Those are the two most usable authoring tools right now. More on the [authoring 
 
 ## Websites and portfolios
 
+[Pongoweb.it](http://www.pongoweb.it) from creators of [PongoCMS](http://pongocms.com) Laravel bundle
+
 [Beyond Weight-Loss](http://beyondweight-loss.net): Just another amateur trying to build webpage by David Meads
 
 [valeka.net](http://valeka.net) by [@Valeka](http://twitter.com/ValekaVale)
