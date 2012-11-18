@@ -19,7 +19,7 @@ Define the origin location in 3D Cartesian space. Specified in pixels (sort-of).
 Rotation of the step frame about its origin in the X-Y plane. This is akin to rotating a piece of paper in front of your face while maintaining it's ortho-normality to your image plane (did that explanation help? I didn't think so...). It rotates the way a photo viewer rotates, like when changing from portrait to landscape view.
 
 ## Polar Position
-Rotation of the step frame about its origin along the theta (azimuth) and phi (elevation) axes.
+Rotation of the step frame about its origin along the theta (azimuth) and phi (elevation) axes. This effect is similar to tilting the frame away from you (elevation) or imaging it standing on a turntable -- and then rotating the turntable (azimuth).
 
 ### data-rotate-x
 Rotation along the theta (azimuth) axis
