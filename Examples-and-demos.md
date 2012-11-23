@@ -52,7 +52,7 @@ Those are the two most usable authoring tools right now. More on the [authoring 
 
 [Take a sip of CoffeeScript](http://madsgraphics.github.com/prez-coffeescript/) [fr] by [@madsgraphics](https://twitter.com/madsgraphics)
 
-[How to build WordPress theme and plugin](http://latech.pl/steel/) by [Bernard Latanowicz](http://latech.pl/contact) Open in Safari only. If there are too many slides on the screen in Google Chrome, the first ones disappear. If somebody knows how to fix it, let me know, please.
+[How to build WordPress theme and plugin](http://latech.pl/latech-steel-presentation/) by [Bernard Latanowicz](http://latech.pl/contact) Open in Safari only. It's big one, so give it about 10 seconds to load. If there are too many slides on the screen in Google Chrome, the first ones disappear. If somebody knows how to fix it, let me know, please.
 
 ## Websites and portfolios
 
