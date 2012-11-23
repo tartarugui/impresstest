@@ -52,7 +52,7 @@ Those are the two most usable authoring tools right now. More on the [authoring 
 
 [Take a sip of CoffeeScript](http://madsgraphics.github.com/prez-coffeescript/) [fr] by [@madsgraphics](https://twitter.com/madsgraphics)
 
-[Steel by latech.pl](http://latech.pl/steel/) by [Bernard Latanowicz](http://latech.pl/contact)
+[Steel by latech.pl - how to build WordPress theme and plugin](http://latech.pl/steel/) by [Bernard Latanowicz](http://latech.pl/contact)
 
 ## Websites and portfolios
 
