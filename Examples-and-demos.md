@@ -94,7 +94,7 @@ Those are the two most usable authoring tools right now. More on the [authoring 
 
 [Resume of russian programmer](http://www.antonoff.info/resume/)
 
-[WAMR Web Studio Overview](http://whenaldimetratna.com/impress) - Overview about Products and Services of WAMR Web Studio
+[WAMR Web Studio Overview](http://whenaldimetratna.com/impress) - Overview about Products and Services of [WAMR Web Studio](http://whenaldimetratna.com)
 
 ## Contribute
 
