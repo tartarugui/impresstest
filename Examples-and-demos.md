@@ -93,9 +93,10 @@ Those are the two most usable authoring tools right now. More on the [authoring 
 [5 Voies de Recherche](http://5voiesderecherche.com/) - information about breast cancer by [ARC Fondation](http://www.arc-cancer.net)
 
 [Resume of russian programmer](http://www.antonoff.info/resume/)
-## Contribute
 
 [WAMR Web Studio Overview](http://whenaldimetratna.com/impress) - Overview about Products and Services from WAMR Web Studio
+
+## Contribute
 
 If you have used impress.js in your presentation (or website) and would like to have it listed here,
 feel free to edit this page.
