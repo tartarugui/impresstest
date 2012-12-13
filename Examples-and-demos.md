@@ -58,6 +58,8 @@ Those are the two most usable authoring tools right now. More on the [authoring 
 
 [How to build WordPress theme and plugin](http://latech.pl/latech-steel-presentation/) by [Bernard Latanowicz](http://latech.pl/contact) Open in Safari only. It's big one, so give it about 10 seconds to load. If there are too many slides on the screen in Google Chrome, the first ones disappear. If somebody knows how to fix it, let me know, please.
 
+[Faster HTML5 Apps](http://indrekv.github.com/talk) from [X-HTML5MAS Meetup](http://html5.ee/events/92739062/) by [IndrekV](http://indrekv.github.com)
+
 ## Websites and portfolios
 
 [Pongoweb.it](http://www.pongoweb.it) from creators of [PongoCMS](http://pongocms.com) Laravel bundle
