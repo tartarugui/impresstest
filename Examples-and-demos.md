@@ -12,9 +12,10 @@ Those are the two most usable authoring tools right now. More on the [authoring 
 
 [impress.js S9 Template Pack](http://geraldb.github.com/slideshow-impress.js): Let's you write your impress.js slides in Markdown or Textile. Uses the Slide Show (S9) Ruby gem to generate your deck.
 
-## Other tools
+## Other Tools & Plugins
 
 [impress-console](https://github.com/regebro/impress-console): A speaker console with notes, preview and timers for impress.js.
+[impress.js-progress](https://github.com/m4n2b/impress.js-progress): A small addition to impress.js which allows you to have a progressbar and/or the current step number and total steps. 
 
 ## Presentations
 
