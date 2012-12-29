@@ -4,7 +4,7 @@
 
 ## Authoring tools
 
-[Strut](http://tantaman.github.com/Strut/web-dist/index.html) ([source](https://github.com/tantaman/Strut)) clean extendable code base, fully client-side
+[Strut](http://tantaman.github.com/Strut/dist/index.html) ([source](https://github.com/tantaman/Strut)) clean extendable code base, fully client-side
 
 [Impressionist](http://hsivaram.com/impressionist/0.1/) ([source](https://github.com/hsivaramx/Impressionist)) less active development lately
 
