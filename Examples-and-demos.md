@@ -67,6 +67,8 @@ A console impress.js authoring tool
 
 ## Websites and portfolios
 
+[Sustainable Development Engineer Curriculum Vitae](http://remiescola.fr/curriculum/index.html#/titre) by [Remi Escola](http://remiescola.fr/) 
+
 [Pongoweb.it](http://www.pongoweb.it) from creators of [PongoCMS](http://pongocms.com) Laravel bundle
 
 [Beyond Weight-Loss](http://beyondweight-loss.net): Just another amateur trying to build webpage by David Meads
