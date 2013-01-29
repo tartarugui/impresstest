@@ -107,7 +107,7 @@ A console impress.js authoring tool
 
 [Resume of russian programmer](http://www.antonoff.info/resume/)
 
-[Feel free to fork my resume (include printable CSS)](http://github.com/jul/cv) viewable here http://jul.github.com/jul
+[Feel free to fork my resume (include printable CSS)](http://github.com/jul/cv) viewable here http://jul.github.com/cv
 
 [WAMR Web Studio Overview](http://whenaldimetratna.com/impress) - Overview about Products and Services of [WAMR Web Studio](http://whenaldimetratna.com)
 
