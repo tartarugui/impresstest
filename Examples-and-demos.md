@@ -15,6 +15,9 @@ Those are the two most usable authoring tools right now. More on the [authoring 
 [impressive](https://github.com/cereal/impressive/)
 A console impress.js authoring tool
 
+[to-textr](http://to-textr.com/slideshows/slide-shows-in-textr/):
+now supports building basic presentations from Markdown
+
 ## Other Tools & Plugins
 
 [impress-console](https://github.com/regebro/impress-console): A speaker console with notes, preview and timers for impress.js.
