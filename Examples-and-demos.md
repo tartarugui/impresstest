@@ -68,7 +68,7 @@ now supports building basic presentations from Markdown
 
 [Faster HTML5 Apps](http://indrekv.github.com/talk) from [X-HTML5MAS Meetup](http://html5.ee/events/92739062/) by [IndrekV](http://indrekv.github.com)
 
-[YUIConf 2012: Scaling YUI in the Enterprise](www.youtube.com/watch?feature=player_embedded&v=HzA4vgR0LGQ) by [@klamping](http://twitter.com/klamping)
+[YUIConf 2012: Scaling YUI in the Enterprise](http://youtu.be/HzA4vgR0LGQ) by [@klamping](http://twitter.com/klamping)
 
 ## Websites and portfolios
 
