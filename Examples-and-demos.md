@@ -54,7 +54,7 @@ now supports building basic presentations from Markdown
 
 [Git, the stupid content tracker, for the novice and the semi-experience git user](http://aht.github.com/whatisgit/) by [@chickamade](http://twitter.com/chickamade)
 
-[YUI3's Use and Add Methods](http://youtu.be/1iDt5mpaNXM) by @klamping
+[YUI3's Use and Add Methods](http://youtu.be/1iDt5mpaNXM) by [@klamping](http://twitter.com/klamping)
 
 [Gauge conditions and blackhole stability](http://paralleltransport.blogspot.com/2012/10/gauge-conditions-stability-in-gr.html#more) by [Kartik Prabhu](http://paralleltransport.blogspot.com)
 
@@ -67,6 +67,8 @@ now supports building basic presentations from Markdown
 [How to build WordPress theme and plugin](http://latech.pl/latech-steel-presentation/) by [Bernard Latanowicz](http://latech.pl/contact) Open in Safari only. It's big one, so give it about 10 seconds to load. If there are too many slides on the screen in Google Chrome, the first ones disappear. If somebody knows how to fix it, let me know, please.
 
 [Faster HTML5 Apps](http://indrekv.github.com/talk) from [X-HTML5MAS Meetup](http://html5.ee/events/92739062/) by [IndrekV](http://indrekv.github.com)
+
+[YUIConf 2012: Scaling YUI in the Enterprise](www.youtube.com/watch?feature=player_embedded&v=HzA4vgR0LGQ) by [@klamping](http://twitter.com/klamping)
 
 ## Websites and portfolios
 
