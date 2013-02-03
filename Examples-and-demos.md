@@ -32,6 +32,8 @@ now supports building basic presentations from Markdown
 
 [12412.org presentation to Digibury](http://extra.12412.org/digibury/) by Stephen Fulljames [@fulljames](http://twitter.com/fulljames)
 
+[Web Application Project Workflow](http://heathdutton.github.com/wappflow/presentation) by Heath Dutton [@heathdutton](http://twitter.com/heathdutton)
+
 [Data center virtualization with Wakame-VDC](http://wakame.jp/wiki/materials/20120114_TLUG/) by Andreas Kieckens [@Metallion98](https://twitter.com/#!/Metallion98)
 
 [Asynchronous JavaScript](http://www.medikoo.com/asynchronous-javascript/3d/) by Mariusz Nowak [@medikoo](http://twitter.com/medikoo)
