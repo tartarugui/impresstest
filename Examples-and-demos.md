@@ -118,6 +118,9 @@ now supports building basic presentations from Markdown
 
 [WAMR Web Studio Overview](http://whenaldimetratna.com/impress) - Overview about Products and Services of [WAMR Web Studio](http://whenaldimetratna.com)
 
+[Tomorrow Interactive](http://tointeractive.ro/) - a webdesign company based in Bucharest
+ 
+
 ## Contribute
 
 If you have used impress.js in your presentation (or website) and would like to have it listed here,
