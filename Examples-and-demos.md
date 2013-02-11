@@ -28,6 +28,8 @@ now supports building basic presentations from Markdown
 
 [CSS 3D transforms](http://bartaz.github.com/meetjs/css3d-summit) from [meet.js summit](http://summit.meetjs.pl) by [@bartaz](http://twitter.com/bartaz)
 
+[An app is not enough](http://joakimkemeny.github.com/presentation.responsive) by Joakim Kemeny [@joakimkemeny](https://twitter.com/joakimkemeny)
+
 [What the Heck is Responsive Web Design](http://johnpolacek.github.com/WhatTheHeckIsResponsiveWebDesign-impressjs/) by John Polacek [@johnpolacek](http://twitter.com/johnpolacek)
 
 [12412.org presentation to Digibury](http://extra.12412.org/digibury/) by Stephen Fulljames [@fulljames](http://twitter.com/fulljames)
