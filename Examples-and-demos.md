@@ -76,6 +76,8 @@ now supports building basic presentations from Markdown
 
 ## Websites and portfolios
 
+[Narsis Responsive Personal VCard Static WebSite](http://1dws.com/demo/narsis-vcard) by [1Devs](http://1devs.com)
+
 [Sustainable Development Engineer Curriculum Vitae](http://remiescola.fr/curriculum/index.html#/titre) by [Remi Escola](http://remiescola.fr/) 
 
 [Pongoweb.it](http://www.pongoweb.it) from creators of [PongoCMS](http://pongocms.com) Laravel bundle
