@@ -74,6 +74,8 @@ now supports building basic presentations from Markdown
 
 [YUIConf 2012: Scaling YUI in the Enterprise](http://youtu.be/HzA4vgR0LGQ) by [@klamping](http://twitter.com/klamping)
 
+[Tomorrow's Schools](http://www.brianbennett.org/MACUL) by Brian E. Bennett [@bennettscience](http://twitter.com/bennettscience)
+
 ## Websites and portfolios
 
 [Narsis Responsive 3D Personal VCard Static Template](http://themeforest.net/item/narsis-3d-responsive-personal-static-template/full_screen_preview/4240016) by [1Devs](http://1devs.com)
