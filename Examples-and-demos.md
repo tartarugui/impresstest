@@ -126,6 +126,7 @@ now supports building basic presentations from Markdown
 
 [Tomorrow Interactive](http://tointeractive.ro/) - a webdesign company based in Bucharest
  
+[Narangi Web](http://www.narangi.it) - a new and creative web agency based in Italy - Sicily
 
 ## Contribute
 
