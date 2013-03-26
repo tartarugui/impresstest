@@ -4,5 +4,8 @@ Welcome to the impress.js wiki!
 * [[Javascript API]]
 * [[HTML Attributes]]
 
+## Learning
+* [[impress.js tutorials and other learning resources]]
+
 ## Examples
-* [Examples and demos](https://github.com/bartaz/impress.js/wiki/Examples-and-demos)
+* [[Examples and demos]]
