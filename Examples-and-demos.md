@@ -130,7 +130,7 @@ now supports building basic presentations from Markdown
  
 [Narangi Web](http://www.narangi.it) - a new and creative web agency based in Italy - Sicily
 
-[Great Wall of Tees](http://zovi.com/wall-t) - selling printed tees in a 3D art gallery
+[Great Wall of Tees](http://zovi.com/wall-t) - innovative use of impress to render a 3D art gallery for  fashion e-commerce site zovi.com
 
 ## Contribute
 
