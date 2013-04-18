@@ -130,6 +130,8 @@ now supports building basic presentations from Markdown
  
 [Narangi Web](http://www.narangi.it) - a new and creative web agency based in Italy - Sicily
 
+[Great Wall of Tees](http://zovi.com/wall-t) - selling printed tees in a 3D art gallery
+
 ## Contribute
 
 If you have used impress.js in your presentation (or website) and would like to have it listed here,
