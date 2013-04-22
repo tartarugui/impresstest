@@ -131,7 +131,8 @@ now supports building basic presentations from Markdown
 [Narangi Web](http://www.narangi.it) - a new and creative web agency based in Italy - Sicily
 
 [Great Wall of Tees](http://zovi.com/wall-t) - innovative use of impress to render a 3D art gallery for  fashion e-commerce site zovi.com
-
+[Mistakopedia](http://mistakopedia.com) - seek knowledge explore/create/share search mindmaps. dynamic search page created with impress.js
+[howard roark laughed] (http://howardroarklaughed.org) -  company website with using mouse scroll
 ## Contribute
 
 If you have used impress.js in your presentation (or website) and would like to have it listed here,
