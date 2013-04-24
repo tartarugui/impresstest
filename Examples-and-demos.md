@@ -135,6 +135,8 @@ now supports building basic presentations from Markdown
 [Mistakopedia](http://mistakopedia.com) - seek knowledge explore/create/share search mindmaps. dynamic search page created with impress.js
 
 [howard roark laughed] (http://howardroarklaughed.org) -  company website with using mouse scroll
+
+[Hiram E. Perez website] (http://hiramperez.net) by [@driverInside](http://twitter.com/driverInside)
 ## Contribute
 
 If you have used impress.js in your presentation (or website) and would like to have it listed here,
