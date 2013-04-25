@@ -78,6 +78,9 @@ now supports building basic presentations from Markdown
 
 [Declinul consumerismului si noua abundenta](http://188.240.2.66/leeroy/) by [Leeroy](http://reddit.com/u/akaleeroy) - a presentation about transition and collapse (in Romanian).
 
+[Kageetai Application](https://github.com/Kageetai/MaResume) by [Kageetai](https://github.com/Kageetai)
+Presentaion for applying at foreign companys
+
 ## Websites and portfolios
 
 [Narsis Responsive 3D Personal VCard Static Template](http://themeforest.net/item/narsis-3d-responsive-personal-static-template/full_screen_preview/4240016) by [1Devs](http://1devs.com)
