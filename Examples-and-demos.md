@@ -24,6 +24,8 @@ now supports building basic presentations from Markdown
 
 [impress.js-progress](https://github.com/m4n2b/impress.js-progress): A small addition to impress.js which allows you to have a progressbar and/or the current step number and total steps. 
 
+[impress_ar.js](http://github.com/fethica/impress_ar.js): An arabic version of impress.js, adding support for language written in a Right-To-Left (RTL) direction.
+
 ## Presentations
 
 [CSS 3D transforms](http://bartaz.github.com/meetjs/css3d-summit) from [meet.js summit](http://summit.meetjs.pl) by [@bartaz](http://twitter.com/bartaz)
