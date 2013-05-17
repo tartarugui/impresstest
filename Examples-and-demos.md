@@ -91,6 +91,10 @@ Presentaion for applying at foreign companys
 
 [Sustainable Development Engineer Curriculum Vitae](http://remiescola.fr/curriculum/index.html#/titre) by [Remi Escola](http://remiescola.fr/) 
 
+
+[Building a Personal Website with impress.js](http://www.innovativephp.com/demo/impress-js-demos/chapter5/#/about) by [Rakhitha Nimesh](http://link.packtpub.com/4pHfi7) 
+
+
 [Pongoweb.it](http://www.pongoweb.it) from creators of [PongoCMS](http://pongocms.com) Laravel bundle
 
 [Beyond Weight-Loss](http://beyondweight-loss.net): Just another amateur trying to build webpage by David Meads
