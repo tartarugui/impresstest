@@ -26,6 +26,8 @@ now supports building basic presentations from Markdown
 
 [impress_ar.js](http://github.com/fethica/impress_ar.js): An arabic version of impress.js, adding support for language written in a Right-To-Left (RTL) direction.
 
+[impress_he.js](https://github.com/r0b0k1ng/impress_he.js): An Hebrew version of impress.js, adding support for Hebrew(RTL) and new fresh background.Made by r0b0_k1ng
+
 ## Presentations
 
 [CSS 3D transforms](http://bartaz.github.com/meetjs/css3d-summit) from [meet.js summit](http://summit.meetjs.pl) by [@bartaz](http://twitter.com/bartaz)
