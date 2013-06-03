@@ -89,6 +89,8 @@ Presentaion for applying at foreign companys
 
 ## Websites and portfolios
 
+[Biofib'isolation, une filière complète unique en Europe](http://www.biofib-isolation.com/filiere-complete.php) from [Biofib'isolation](http://www.biofib-isolation.com/) by [@youyouk](http://twitter.com/youyouk)
+
 [Café - Resto - Bar Website - Still in progres](http://www.nuestroconjunto.com/paginas/conarte) by [@HtrMancera](https://twitter.com/HtrMancera)
 
 [Narsis Responsive 3D Personal VCard Static Template](http://themeforest.net/item/narsis-3d-responsive-personal-static-template/full_screen_preview/4240016) by [1Devs](http://1devs.com)
