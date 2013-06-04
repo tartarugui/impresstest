@@ -64,7 +64,7 @@ now supports building basic presentations from Markdown
 
 [YUI3's Use and Add Methods](http://youtu.be/1iDt5mpaNXM) by [@klamping](http://twitter.com/klamping)
 
-[Gauge conditions and blackhole stability](http://paralleltransport.blogspot.com/2012/10/gauge-conditions-stability-in-gr.html#more) by [Kartik Prabhu](http://paralleltransport.blogspot.com)
+[Gauge conditions and blackhole stability](http://kartikprabhu.com/static/talks/Gauge%20Conditions%20%26%20Stability%20in%20GR%20-%20MWRM2012/gauge2012.html) by [Kartik Prabhu](http://kartikprabhu.com/)
 
 [Les User Agents, c'est le mal !](http://rudyonweb.net/f/useragent/) [fr] by [Rudy Rigot](http://rudyonweb.net)
 
