@@ -153,6 +153,8 @@ Presentaion for applying at foreign companys
 
 [howard roark laughed] (http://howardroarklaughed.org) -  company website with using mouse scroll
 
+[SteamPrez](http://www.steamprez.com - automatically create dynamic presentations using your Steam profile information 
+
 [Hiram E. Perez website] (http://hiramperez.net) by [@driverInside](http://twitter.com/driverInside)
 ## Contribute
 
