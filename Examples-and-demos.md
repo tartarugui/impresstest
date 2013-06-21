@@ -28,6 +28,8 @@ now supports building basic presentations from Markdown
 
 [impress_he.js](https://github.com/r0b0k1ng/impress_he.js): An Hebrew version of impress.js, adding support for Hebrew(RTL) and new fresh background.Made by r0b0_k1ng
 
+[impress-audio.js](https://github.com/danielsimons1/impress-audio): Small addition to impress.js to allow for html5 audio in your presentation
+
 ## Presentations
 
 [CSS 3D transforms](http://bartaz.github.com/meetjs/css3d-summit) from [meet.js summit](http://summit.meetjs.pl) by [@bartaz](http://twitter.com/bartaz)
