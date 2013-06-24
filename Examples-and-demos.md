@@ -18,6 +18,9 @@ A console impress.js authoring tool
 [to-textr](http://to-textr.com/slideshows/slide-shows-in-textr/):
 now supports building basic presentations from Markdown
 
+[madeye](http://madeye.io/impress.js)
+collaboratively edit an impress.js presentation a la Google Docs
+
 ## Other Tools & Plugins
 
 [impress-console](https://github.com/regebro/impress-console): A speaker console with notes, preview and timers for impress.js.
