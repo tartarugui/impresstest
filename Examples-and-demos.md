@@ -92,6 +92,9 @@ Presentaion for applying at foreign companys
 
 [Backtrack Linux Distro](http://solucionesgeek.com/flisol2013/#/overview) by [@pblfer] (https://github.com/Pblfer) intro to security. spanish Guatemala. :) 
 
+[Impress.js Test](http://manuelbaronetti.com.ar/demo-impress/en) by [Manursio](http://twitter.com/manursio)
+Just testing this awesome plugin.
+
 ## Websites and portfolios
 
 [Biofib'isolation, une filière complète unique en Europe](http://www.biofib-isolation.com/filiere-complete.php) from [Biofib'isolation](http://www.biofib-isolation.com/) by [@youyouk](http://twitter.com/youyouk)
