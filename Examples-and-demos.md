@@ -92,7 +92,7 @@ Presentaion for applying at foreign companys
 
 [Backtrack Linux Distro](http://solucionesgeek.com/flisol2013/#/overview) by [@pblfer] (https://github.com/Pblfer) intro to security. spanish Guatemala. :) 
 
-[Impress.js Test](http://manuelbaronetti.com.ar/demo-impress/en) by [Manursio](http://twitter.com/manursio)
+[Testing impress.js](http://manuelbaronetti.com.ar/demo-impress/en) by [@manursio](http://twitter.com/manursio)
 Just testing this awesome plugin.
 
 ## Websites and portfolios
