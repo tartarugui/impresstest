@@ -163,5 +163,9 @@ Presentaion for applying at foreign companys
 [Hiram E. Perez website] (http://hiramperez.net) by [@driverInside](http://twitter.com/driverInside)
 ## Contribute
 
+[CSS animation] (http://db.tt/0uYicjlM) by Jivan Shrestha(http://jivanshr.com.np)
+A short presentation to design team 
+
+
 If you have used impress.js in your presentation (or website) and would like to have it listed here,
 feel free to edit this page.
