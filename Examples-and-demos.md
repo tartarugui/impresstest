@@ -164,8 +164,9 @@ Presentaion for applying at foreign companys
 ## Contribute
 
 [CSS animation] (http://db.tt/0uYicjlM) by Jivan Shrestha(http://jivanshr.com.np)
-A short presentation to design team 
+A short presentation to design team
 
+[CSS basics for .net developers] (http://db.tt/aB6hb2h7) by Jivan Shrestha(http://jivanshr.com.np)
 
 If you have used impress.js in your presentation (or website) and would like to have it listed here,
 feel free to edit this page.
