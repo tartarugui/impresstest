@@ -37,6 +37,8 @@ collaboratively edit an impress.js presentation a la Google Docs
 
 [CSS 3D transforms](http://bartaz.github.com/meetjs/css3d-summit) from [meet.js summit](http://summit.meetjs.pl) by [@bartaz](http://twitter.com/bartaz)
 
+[Freelancing - My story](http://valeka.net/freelancer) by [@Valeka](http://twitter.com/ValekaVale)
+
 [An app is not enough](http://joakimkemeny.github.com/presentation.responsive) by Joakim Kemeny [@joakimkemeny](https://twitter.com/joakimkemeny)
 
 [What the Heck is Responsive Web Design](http://johnpolacek.github.com/WhatTheHeckIsResponsiveWebDesign-impressjs/) by John Polacek [@johnpolacek](http://twitter.com/johnpolacek)
