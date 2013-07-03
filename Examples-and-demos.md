@@ -99,6 +99,7 @@ Just testing this awesome plugin.
 
 ## Websites and portfolios
 
+[Embedded processing.js sketches](http://bar.utoronto.ca/~jwaese/zoom/zoomBrowserTest.html#/m) A demo of an inspire.js page with several processing.js sketches embedded in each step by jamiewaese
 [Biofib'isolation, une filière complète unique en Europe](http://www.biofib-isolation.com/filiere-complete.php) from [Biofib'isolation](http://www.biofib-isolation.com/) by [@youyouk](http://twitter.com/youyouk)
 
 [Café - Resto - Bar Website - Still in progres](http://www.nuestroconjunto.com/paginas/conarte) by [@HtrMancera](https://twitter.com/HtrMancera)
