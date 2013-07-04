@@ -9,7 +9,7 @@
 * [How To Use Impress.js](http://www.cubewebsites.com/blog/guides/how-to-use-impress-js/)
 * [Impress With Impress](http://www.andismith.com/blog/2012/01/impress-with-impress/)
 
-
+Also checkout [Impress.js on Hacker Notes](http://www.thehackernotes.com/bartaz/impress.js)
 ## Books
 
 * [Building impressive presentations with impress.js](http://www.packtpub.com/building-impressive-presentations-with-impressjs/book) book by Rakhitha Nimesh Ratnayake
