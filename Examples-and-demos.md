@@ -99,6 +99,8 @@ Just testing this awesome plugin.
 
 ## Websites and portfolios
 
+[jgog.in](http://www.jgog.in) Website/Portfolio of [Jenil Gogari](https://github.com/jenil27), designer from Mumbai, India
+
 [processing.js/inspire.js demo](http://bar.utoronto.ca/~jwaese/zoom/zoomBrowserTest.html#/m) An inspire.js page with a different processing.js sketch at each step by Jamie Waese
 
 [Biofib'isolation, une filière complète unique en Europe](http://www.biofib-isolation.com/filiere-complete.php) from [Biofib'isolation](http://www.biofib-isolation.com/) by [@youyouk](http://twitter.com/youyouk)
