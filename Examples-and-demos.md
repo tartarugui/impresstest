@@ -153,6 +153,8 @@ Just testing this awesome plugin.
 
 [5 Voies de Recherche](http://5voiesderecherche.com/) - information about breast cancer by [ARC Fondation](http://www.arc-cancer.net)
 
+[Sibal fArts Presents](http://sibal.desipirates.in) Satire site by [Vidyut](http://aamjanata.com), about an Indian Minister who has been leading legislation eroding internet rights - free speech and privacy in India. Combines with other javascript and tools.
+
 [Resume of russian programmer](http://www.antonoff.info/resume/)
 
 [Feel free to fork my resume (include printable CSS)](http://github.com/jul/cv) viewable here http://jul.github.com/cv
