@@ -3,6 +3,7 @@ Welcome to the impress.js wiki!
 ## References
 * [[Javascript API]]
 * [[HTML Attributes]]
+* [[Mobile support]]
 
 ## Learning
 * [[impress.js tutorials and other learning resources]]
