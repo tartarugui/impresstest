@@ -12,6 +12,8 @@ Those are the two most usable authoring tools right now. More on the [authoring 
 
 [impress.js S9 Template Pack](http://slideshow-s9.github.io/slideshow-impress.js) ([source](https://github.com/slideshow-s9/slideshow-impress.js)): Lets you write your impress.js slides in Markdown or Textile. Uses the Slide Show (S9) Ruby gem to generate your deck.
 
+[hovercraft!](http://regebro.github.io/hovercraft) ([source](https://github.com/regebro/hovercraft)): Lets you write your impress.js slides in restructuredText. Very good positioning and transformation support. It even provides a presenter console with a preview of the next slide, a timer and notes which are fetched directly from the slides sources.
+
 [impressive](https://github.com/cereal/impressive/)
 A console impress.js authoring tool
 
