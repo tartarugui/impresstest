@@ -37,6 +37,8 @@ collaboratively edit an impress.js presentation a la Google Docs
 
 ## Presentations
 
+[Hashdog: Software Factory - Brochure](http://www.hashdog.com/brochure) by [Franco Alvarez](http://www.hashdog.com/brochure)
+
 [An Long Productions Portfolio Site](http://anlongproductions.com) by [Mitchell Valentine](http://anlongproductions.com)
 
 [CSS 3D transforms](http://bartaz.github.com/meetjs/css3d-summit) from [meet.js summit](http://summit.meetjs.pl) by [@bartaz](http://twitter.com/bartaz)
