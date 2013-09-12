@@ -23,6 +23,9 @@ now supports building basic presentations from Markdown
 [madeye](http://madeye.io/impress.js)
 collaboratively edit an impress.js presentation a la Google Docs
 
+[Circular Slides Generator](http://wmh.github.io/circular-slides-generator/)
+Generates circular slides for impress.js presentations.
+
 ## Other Tools & Plugins
 
 [impress-console](https://github.com/regebro/impress-console): A speaker console with notes, preview and timers for impress.js.
