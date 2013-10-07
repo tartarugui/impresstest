@@ -106,6 +106,8 @@ Presentaion for applying at foreign companys
 [Testing impress.js](http://manuelbaronetti.com.ar/demo-impress/en) by [@manursio](http://twitter.com/manursio)
 Just testing this awesome plugin.
 
+[Amazon AWS 3D Cubes] (http://www.toforge.com/wp-content/impressjs_amazonaws_cubes/index.html#/start) by [Mauro Rocco](http://www.toforge.com) - A nice experience on building the Amazon AWS logo using Impress.js 
+
 ## Websites and portfolios
 
 [jgog.in](http://www.jgog.in) Website/Portfolio of [Jenil Gogari](https://github.com/jenil27), designer from Mumbai, India
@@ -181,6 +183,7 @@ Just testing this awesome plugin.
 [SteamPrez](http://www.steamprez.com) - automatically create dynamic presentations using your Steam profile information 
 
 [Hiram E. Perez website] (http://hiramperez.net) by [@driverInside](http://twitter.com/driverInside)
+
 ## Contribute
 
 [CSS animation] (http://db.tt/0uYicjlM) by Jivan Shrestha(http://jivanshr.com.np)
