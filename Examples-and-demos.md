@@ -39,7 +39,7 @@ Generates circular slides for impress.js presentations.
 [impress-audio.js](https://github.com/danielsimons1/impress-audio): Small addition to impress.js to allow for html5 audio in your presentation
 
 ## Presentations
-[dreszler-development](http://www.dreszler-development.de) by Anas Akkawi  [ dreszler-development](http://www.dreszler-development.de)
+[dreszler-development](http://www.dreszler-development.de) by [ dreszler-development](http://www.dreszler-development.de)
 
 [Cool Gadget Shop](http://cool-gadget-shop.com) by [An Long Productions](http://anlongproductions.com)
 
