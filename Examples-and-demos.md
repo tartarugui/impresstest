@@ -111,6 +111,9 @@ Just testing this awesome plugin.
 
 [Amazon AWS 3D Cubes] (http://www.toforge.com/wp-content/impressjs_amazonaws_cubes/index.html#/start) by [Mauro Rocco](http://www.toforge.com) - A nice experience on building the Amazon AWS logo using Impress.js 
 
+[Demo in italiano] (http://www.xenialab.it/meo/web/white/internet/impressjs.htm#/bored) by [Meo Bogliolo](http://www.xenialab.it/meo/web/index5.htm) - The official demo with text translated into italian. I did not translate the comments since they are too cool to be changed...
+
+
 ## Websites and portfolios
 
 [jgog.in](http://www.jgog.in) Website/Portfolio of [Jenil Gogari](https://github.com/jenil27), designer from Mumbai, India
