@@ -190,6 +190,8 @@ Just testing this awesome plugin.
 
 [Hiram E. Perez website] (http://hiramperez.net) by [@driverInside](http://twitter.com/driverInside)
 
+[Nishant Neeraj's website](http://naishe.in) by [@naishe](http://twitter.com/naishe)
+
 ## Contribute
 
 [CSS animation] (http://db.tt/0uYicjlM) by Jivan Shrestha(http://jivanshr.com.np)
