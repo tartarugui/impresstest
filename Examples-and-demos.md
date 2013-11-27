@@ -184,6 +184,10 @@ Just testing this awesome plugin.
 
 [Mistakopedia](http://mistakopedia.com) - seek knowledge explore/create/share search mindmaps. dynamic search page created with impress.js
 
+[Technical Skill Representation] (http://mohdaslam.com/arpit/#/bored) by [@Arpit](http://www.linkedin.com/in/arpitchoudhary90)
+
+
+
 [howard roark laughed] (http://howardroarklaughed.org) -  company website with using mouse scroll
 
 [SteamPrez](http://www.steamprez.com) - automatically create dynamic presentations using your Steam profile information 
