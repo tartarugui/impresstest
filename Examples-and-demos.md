@@ -116,7 +116,7 @@ Just testing this awesome plugin.
 
 ## Websites and portfolios
 
-http://ivelina.comuv.com by Ivelina Dimitrova, Frontend developer and designer
+http://ivelina.comuv.com by Ivelina Dimitrova (ivelina.dimitrova@yahoo.com), Portfolio
 
 [jgog.in](http://www.jgog.in) Website/Portfolio of [Jenil Gogari](https://github.com/jenil27), designer from Mumbai, India
 
