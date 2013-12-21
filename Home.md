@@ -10,7 +10,7 @@ Welcome to the impress.js wiki!
 * [Building impressive presentations with impress.js](http://www.packtpub.com/building-impressive-presentations-with-impressjs/book) book by Rakhitha Nimesh Ratnayake
 
 ## Graphical interface for impress.js
-for reach greater audience 
+for reaching greater audience 
 * [[Grahical interface for creating impress.js presentations!!]]
 
 ## examples
