@@ -198,6 +198,8 @@ http://ivelina.comuv.com by Ivelina Dimitrova (ivelina.dimitrova@yahoo.com), Por
 
 [Nishant Neeraj's website](http://naishe.in) by [@naishe](http://twitter.com/naishe)
 
+[Joan Gamell's Resume and Portfolio](http://gamell.io) by [gamell](https://github.com/gamell)
+
 ## Contribute
 
 [CSS animation] (http://db.tt/0uYicjlM) by Jivan Shrestha(http://jivanshr.com.np)
