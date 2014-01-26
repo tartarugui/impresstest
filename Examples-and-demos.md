@@ -113,6 +113,7 @@ Just testing this awesome plugin.
 
 [Demo in italiano] (http://www.xenialab.it/meo/web/white/internet/impressjs.htm#/bored) by [Meo Bogliolo](http://www.xenialab.it/meo/web/index5.htm) - The official demo with text translated into italian. I did not translate the comments since they are too cool to be changed...
 
+[Jeniv](jeniv.net/magazine/post/rukun-iman) by [Jefry Nivella](http://jeniv.net/) - A cube presentation.
 
 ## Websites and portfolios
 
