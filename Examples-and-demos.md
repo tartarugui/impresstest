@@ -201,7 +201,7 @@ http://ivelina.comuv.com by Ivelina Dimitrova (ivelina.dimitrova@yahoo.com), Por
 
 [Joan Gamell's Resume and Portfolio](http://gamell.io) by [gamell](https://github.com/gamell)
 
-[Cuba en el Centro](www.cubaenelcentro.com) by [galopez](https://github.com/galopez)
+[Cuba en el Centro](http://www.cubaenelcentro.com) by [galopez](https://github.com/galopez)
 
 ## Contribute
 
