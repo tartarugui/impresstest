@@ -104,8 +104,6 @@ Generates circular slides for impress.js presentations.
 [Kageetai Application](https://github.com/Kageetai/MaResume) by [Kageetai](https://github.com/Kageetai)
 Presentaion for applying at foreign companys
 
-[Backtrack Linux Distro](http://solucionesgeek.com/flisol2013/#/overview) by [@pblfer] (https://github.com/Pblfer) intro to security. spanish Guatemala. :) 
-
 [Testing impress.js](http://manuelbaronetti.com.ar/demo-impress/en) by [@manursio](http://twitter.com/manursio)
 Just testing this awesome plugin.
 
