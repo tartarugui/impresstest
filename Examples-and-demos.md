@@ -49,6 +49,8 @@ Generates circular slides for impress.js presentations.
 
 [An Long Productions Portfolio Site](http://anlongproductions.com) by [Mitchell Valentine](http://anlongproductions.com)
 
+[Advanced Problem Solving](http://costamichailidis.github.io/advancedProblemSolvingSkills) by [Costa Michailidis](http://linkedin.com/in/costamichailidis)
+
 [CSS 3D transforms](http://bartaz.github.com/meetjs/css3d-summit) from [meet.js summit](http://summit.meetjs.pl) by [@bartaz](http://twitter.com/bartaz)
 
 [Freelancing - My story](http://valeka.net/freelancer) by [@Valeka](http://twitter.com/ValekaVale)
