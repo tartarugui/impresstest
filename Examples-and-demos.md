@@ -22,9 +22,6 @@ A console impress.js authoring tool
 [to-textr](http://to-textr.com/slideshows/slide-shows-in-textr/):
 now supports building basic presentations from Markdown
 
-[madeye](http://madeye.io/impress.js)
-collaboratively edit an impress.js presentation a la Google Docs
-
 [Circular Slides Generator](http://wmh.github.io/circular-slides-generator/)
 Generates circular slides for impress.js presentations.
 
