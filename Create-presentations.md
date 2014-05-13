@@ -1,1 +1,0 @@
-With [Impressionist](https://github.com/hsivaramx/Impressionist) you could visually create, open, save and export presentations - all online.
