@@ -114,6 +114,8 @@ Just testing this awesome plugin.
 
 [Rukun Iman | Jeniv](jeniv.net/magazine/post/rukun-iman) by [Jefry Nivella](http://jeniv.net/) - A cube presentation.
 
+[Présentation d'IntraCherche pour le CRECE (démo en français)](http://www.intracherche.fr/public/Presentations/2014/Mai/) by [http://www.intracherche.fr)
+
 ## Websites and portfolios
 
 http://ivelina.comuv.com by Ivelina Dimitrova (ivelina.dimitrova@yahoo.com), Portfolio
