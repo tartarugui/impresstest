@@ -126,7 +126,7 @@ http://ivelina.comuv.com by Ivelina Dimitrova (ivelina.dimitrova@yahoo.com), Por
 
 [Biofib'isolation, une filière complète unique en Europe](http://www.biofib-isolation.com/filiere-complete.php) from [Biofib'isolation](http://www.biofib-isolation.com/) by [@youyouk](http://twitter.com/youyouk)
 
-[Narsis Responsive 3D Personal VCard Static Template](http://themeforest.net/item/narsis-3d-responsive-personal-static-template/full_screen_preview/4240016) by [1Devs](http://1devs.com)
+[Narsis Responsive 3D Personal VCard Static Template](http://1dws.com/demo/narsis-vcard/) by [1Devs](http://1devs.com)
 
 [Building a Personal Website with impress.js](http://www.innovativephp.com/demo/impress-js-demos/chapter5/#/about) by [Rakhitha Nimesh](http://link.packtpub.com/4pHfi7) 
 
