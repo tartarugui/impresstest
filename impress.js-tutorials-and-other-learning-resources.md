@@ -4,6 +4,7 @@
 
 ## Tutorials
 
+* [Create an Impress.js Presentation in 10 Minutes](https://www.opensesame.com/c/create-impressjs-presentation-10-minutes-training-course)
 * [Creating Stunning Visualizations with Impress.js](http://www.1stwebdesigner.com/css/creating-stunning-visualizations-with-impress-js/)
 * [Making an Impressive Product Showcase with CSS3](http://tutorialzine.com/2012/02/css3-product-showcase/)
 * [How To Use Impress.js](http://www.cubewebsites.com/blog/guides/how-to-use-impress-js/)
