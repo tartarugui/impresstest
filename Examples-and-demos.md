@@ -4,7 +4,7 @@
 
 ## Authoring tools
 
-[Dyapos](http://dyapos.net) ([source](https://gitorious.org/dyapos)) Graphic web editor for Impress.js, inspired on Prezi.
+[Dyapos](http://dyapos.net) ([source](https://gitlab.com/edwardoyarzun/dyapos)) Graphic web editor for Impress.js, inspired on Prezi.
 
 [Strut](http://strut.io/) ([source](https://github.com/tantaman/Strut)) clean extendable code base, fully client-side
 
