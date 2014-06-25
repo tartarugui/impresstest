@@ -25,6 +25,9 @@ now supports building basic presentations from Markdown
 [Circular Slides Generator](http://wmh.github.io/circular-slides-generator/)
 Generates circular slides for impress.js presentations.
 
+[Beethoven](https://github.com/rohitshetty00/beethoven-melody)
+semi graphical user interface for creating impress.js presentations. Has only basic methods, but still under development.
+
 ## Other Tools & Plugins
 
 [impress-console](https://github.com/regebro/impress-console): A speaker console with notes, preview and timers for impress.js.
