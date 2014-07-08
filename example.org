@@ -1,3 +1,5 @@
 #+BEGIN_QUOTE
 /*Majo*/
 #+END_QUOTE
+[[https://www.google.com.ec/search?q=images&source=lnms&tbm=isch&sa=X&ei=tju7U5T7NYvMsQT12oHYAQ&ved=0CAYQ_AUoAQ&biw=1366&bih=677#facrc=_&imgdii=_&imgrc=7DeKOCrKL65iaM%253A%3B7AVn8Et-O2765M%3Bhttp%253A%252F%252Fwww.picturesnew.com%252Fmedia%252Fimages%252Fimages-background.jpg%3Bhttp%253A%252F%252Fwww.picturesnew.com%252Fimages.html%3B400%3B225]]
+1. /*ejemplodestruct*/
