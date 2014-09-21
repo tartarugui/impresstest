@@ -108,7 +108,7 @@ semi graphical user interface for creating impress.js presentations. Has only ba
 
 [Tomorrow's Schools](http://www.brianbennett.org/MACUL) by Brian E. Bennett [@bennettscience](http://twitter.com/bennettscience)
 
-[Declinul consumerismului si noua abundenta](http://188.240.2.66/leeroy/) by [Leeroy](http://reddit.com/u/akaleeroy) - a presentation about transition and collapse (in Romanian).
+[Declinul consumerismului si noua abundenta](http://188.240.2.66/leeroy/) by [Leeroy](http://reddit.com/u/akaleeroy) - a presentation about transition and collapse (English/Romanian).
 
 [Kageetai Application](https://github.com/Kageetai/MaResume) by [Kageetai](https://github.com/Kageetai)
 Presentaion for applying at foreign companys
