@@ -16,9 +16,6 @@ Those are the two most usable authoring tools right now. More on the [authoring 
 
 [hovercraft!](http://regebro.github.io/hovercraft) ([source](https://github.com/regebro/hovercraft)): Lets you write your impress.js slides in restructuredText. Very good positioning and transformation support. It even provides a presenter console with a preview of the next slide, a timer and notes which are fetched directly from the slides sources.
 
-[impressive](https://github.com/cereal/impressive/)
-A console impress.js authoring tool
-
 [to-textr](http://to-textr.com/slideshows/slide-shows-in-textr/):
 now supports building basic presentations from Markdown
 
