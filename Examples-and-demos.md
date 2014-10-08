@@ -4,6 +4,8 @@
 
 ## Authoring tools
 
+[Azexo Composer](http://azexo.com/azexo_composer) ([source](https://github.com/azexo/Azexo-Composer-WYSIWYG), [ready to use WordPress/Drupal/Joomla/HTML versions](http://codecanyon.net/user/azexo/portfolio?ref=azexo)) jQuery plugin: WYSIWYG Drag and Drop HTML builder with integrated Impress.js.
+
 [Dyapos](http://dyapos.net) ([source](https://gitlab.com/edwardoyarzun/dyapos)) Graphic web editor for Impress.js, inspired on Prezi.
 
 [Strut](http://strut.io/) ([source](https://github.com/tantaman/Strut)) clean extendable code base, fully client-side
