@@ -39,6 +39,8 @@ semi graphical user interface for creating impress.js presentations. Has only ba
 
 [impress-audio.js](https://github.com/danielsimons1/impress-audio): Small addition to impress.js to allow for html5 audio in your presentation
 
+[im_present](https://github.com/twenty-seven/im_present): Basic Firefox extensions that displays additional information to the lecturer, in another window.
+
 ## Presentations
 
 [Bytecode manipulation with cglib and ASM](http://pkoperek.github.io/bytecode-presentation) by [Pawel Koperek](https://www.linkedin.com/in/pawelkoperek)
