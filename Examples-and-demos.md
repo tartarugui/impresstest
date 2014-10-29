@@ -49,13 +49,13 @@ semi graphical user interface for creating impress.js presentations. Has only ba
 
 [dreszler-development](http://www.dreszler-development.de) by [ dreszler-development](http://www.dreszler-development.de)
 
-[Cool Gadget Shop](http://cool-gadget-shop.com) by [An Long Productions](http://anlongproductions.com)
+<del>[Cool Gadget Shop](http://cool-gadget-shop.com) (This domain name expired on 9/22/2014) by [An Long Productions](http://anlongproductions.com)</del>
 
 [Hashdog: Software Factory - Brochure](http://www.hashdog.com/brochure) by [Franco Alvarez](http://www.hashdog.com/brochure)
 
-[An Long Productions Portfolio Site](http://anlongproductions.com) by [Mitchell Valentine](http://anlongproductions.com)
+<del>[An Long Productions Portfolio Site](http://anlongproductions.com) (not an Impress.js site) by [Mitchell Valentine](http://anlongproductions.com)</del>
 
-[Advanced Problem Solving](http://costamichailidis.github.io/advancedProblemSolvingSkills) by [Costa Michailidis](http://linkedin.com/in/costamichailidis)
+<del>[Advanced Problem Solving](http://costamichailidis.github.io/advancedProblemSolvingSkills) (404 Not Found) by [Costa Michailidis](http://linkedin.com/in/costamichailidis)</del>
 
 [CSS 3D transforms](http://bartaz.github.com/meetjs/css3d-summit) from [meet.js summit](http://summit.meetjs.pl) by [@bartaz](http://twitter.com/bartaz)
 
