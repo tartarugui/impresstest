@@ -208,6 +208,8 @@ http://ivelina.comuv.com by Ivelina Dimitrova (ivelina.dimitrova@yahoo.com), Por
 
 [Cuba en el Centro](http://www.cubaenelcentro.com) by [galopez](https://github.com/galopez). This is a website about vacations in Cuba. Each one of the tours offered features an interactive view around the island. The "interactivity" is supported by the goodies of impress.js
 
+[Episode 5](http://tobecontinuedcomic.com/comics/episode_5) of [To Be Continued](http://tobecontinuedcomic.com), webcomic by Lorenzo Ghetti, website by [Carlo Trimarchi](http://www.carlotrimarchi.it/)
+
 ## Contribute
 
 [CSS animation] (http://db.tt/0uYicjlM) by Jivan Shrestha(http://jivanshr.com.np)
