@@ -49,27 +49,27 @@ semi graphical user interface for creating impress.js presentations. Has only ba
 
 [dreszler-development](http://www.dreszler-development.de) by [ dreszler-development](http://www.dreszler-development.de)
 
-<del>[Cool Gadget Shop](http://cool-gadget-shop.com) (This domain name expired on 9/22/2014) by [An Long Productions](http://anlongproductions.com)</del>
+(This domain name expired on 9/22/2014) <del>[Cool Gadget Shop](http://cool-gadget-shop.com) by [An Long Productions](http://anlongproductions.com)</del>
 
 [Hashdog: Software Factory - Brochure](http://www.hashdog.com/brochure) by [Franco Alvarez](http://www.hashdog.com/brochure)
 
-<del>[An Long Productions Portfolio Site](http://anlongproductions.com) (not an Impress.js site) by [Mitchell Valentine](http://anlongproductions.com)</del>
+(not an Impress.js site) <del>[An Long Productions Portfolio Site](http://anlongproductions.com) by [Mitchell Valentine](http://anlongproductions.com)</del>
 
-<del>[Advanced Problem Solving](http://costamichailidis.github.io/advancedProblemSolvingSkills) (404 Not Found) by [Costa Michailidis](http://linkedin.com/in/costamichailidis)</del>
+(404 Not Found) <del>[Advanced Problem Solving](http://costamichailidis.github.io/advancedProblemSolvingSkills)  by [Costa Michailidis](http://linkedin.com/in/costamichailidis)</del>
 
 [CSS 3D transforms](http://bartaz.github.com/meetjs/css3d-summit) from [meet.js summit](http://summit.meetjs.pl) by [@bartaz](http://twitter.com/bartaz)
 
 [Freelancing - My story](http://valeka.net/freelancer) by [@Valeka](http://twitter.com/ValekaVale)
 
-[An app is not enough](http://joakimkemeny.github.com/presentation.responsive) by Joakim Kemeny [@joakimkemeny](https://twitter.com/joakimkemeny)
+<del>[An app is not enough](http://joakimkemeny.github.com/presentation.responsive) by Joakim Kemeny [@joakimkemeny](https://twitter.com/joakimkemeny)</del>
 
 [What the Heck is Responsive Web Design](http://johnpolacek.github.com/WhatTheHeckIsResponsiveWebDesign-impressjs/) by John Polacek [@johnpolacek](http://twitter.com/johnpolacek)
 
-[12412.org presentation to Digibury](http://extra.12412.org/digibury/) by Stephen Fulljames [@fulljames](http://twitter.com/fulljames)
+<del>[12412.org presentation to Digibury](http://extra.12412.org/digibury/) by Stephen Fulljames [@fulljames](http://twitter.com/fulljames)</del>
 
 [Web Application Project Workflow](http://heathdutton.github.com/wappflow/presentation) by Heath Dutton [@heathdutton](http://twitter.com/heathdutton)
 
-[Data center virtualization with Wakame-VDC](http://wakame.jp/wiki/materials/20120114_TLUG/) by Andreas Kieckens [@Metallion98](https://twitter.com/#!/Metallion98)
+<del>[Data center virtualization with Wakame-VDC](http://wakame.jp/wiki/materials/20120114_TLUG/) by Andreas Kieckens [@Metallion98](https://twitter.com/#!/Metallion98)</del>
 
 [Asynchronous JavaScript](http://www.medikoo.com/asynchronous-javascript/3d/) by Mariusz Nowak [@medikoo](http://twitter.com/medikoo)
 
