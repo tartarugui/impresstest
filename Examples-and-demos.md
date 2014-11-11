@@ -12,7 +12,9 @@
 
 [Impressionist](http://hsivaram.com/impressionist/0.1/) ([source](https://github.com/hsivaramx/Impressionist)) less active development lately
 
-Those are the two most usable authoring tools right now. More on the [authoring tool issue](https://github.com/bartaz/impress.js/issues/5).
+[Choices & Chances](http://choiceschances.com) ([source](https://github.com/perrybutler/choiceschances)) a choose-your-own adventure platform.
+
+Those are the most usable authoring tools right now. More on the [authoring tool issue](https://github.com/bartaz/impress.js/issues/5).
 
 [impress.js S9 Template Pack](http://slideshow-s9.github.io/slideshow-impress.js) ([source](https://github.com/slideshow-s9/slideshow-impress.js)): Lets you write your impress.js slides in Markdown or Textile. Uses the Slide Show (S9) Ruby gem to generate your deck.
 
