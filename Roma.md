@@ -1,6 +1,7 @@
 7.- Quina esperança de vida tenia un ciutadà romà, una dona romana, els esclaus, quina era la mortalitat infantil.
 
-return/enter
+
+***
 
 
 Dona romana: La esperança de vida d’una dona romana era de 34 anys.
