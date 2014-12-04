@@ -127,6 +127,8 @@ Just testing this awesome plugin.
 
 [Présentation d'IntraCherche pour le CRECE (démo en français)](http://www.intracherche.fr/public/Presentations/2014/Mai/) by [http://www.intracherche.fr)
 
+[Toward the development of a web literacy map](https://dajbelshaw.makes.org/thimble/LTk3ODQ1MjIyNA==/toward-the-development-of-a-web-literacy-map-exploring-building-and-connecting-online) by [Doug Belshaw](https://dougbelshaw.com) - slides in a square which then zoom inside...
+
 ## Websites and portfolios
 
 http://ivelina.comuv.com by Ivelina Dimitrova (ivelina.dimitrova@yahoo.com), Portfolio
