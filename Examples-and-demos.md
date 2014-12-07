@@ -10,7 +10,7 @@
 
 [Strut](http://strut.io/) ([source](https://github.com/tantaman/Strut)) clean extendable code base, fully client-side
 
-[Impressionist](http://hsivaram.com/impressionist/0.1/) ([source](https://github.com/hsivaramx/Impressionist)) less active development lately
+(This domain name expired on 11/15/2014) <del>[Impressionist](http://hsivaram.com/impressionist/0.1/) ([source](https://github.com/hsivaramx/Impressionist)) less active development lately</del>
 
 [Choices & Chances](http://choiceschances.com) ([source](https://github.com/perrybutler/choiceschances)) a choose-your-own adventure platform.
 
