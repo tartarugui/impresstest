@@ -4,7 +4,7 @@
 
 ## Authoring tools
 
-[Orbitale EasyImpress](https://github.com/Orbitale/EasyImpress): free PHP-Silex application that allows to create Impress.js presentations based on a simple `yml` file.
+[Orbitale.io EasyImpress](https://github.com/Orbitale/EasyImpress): free PHP-Silex application that allows to create Impress.js presentations based on a simple `yml` file.
 
 [Azexo Composer](http://azexo.com/azexo_composer) ([source](https://github.com/azexo/Azexo-Composer-WYSIWYG)) Free jQuery plugin: WYSIWYG Drag and Drop HTML builder with integrated Impress.js. Paid and ready to use WordPress/Drupal/Joomla/HTML [versions](http://codecanyon.net/user/azexo/portfolio?ref=azexo).
 
