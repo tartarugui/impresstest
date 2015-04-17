@@ -50,7 +50,7 @@ semi graphical user interface for creating impress.js presentations. Has only ba
 
 ## Presentations
 
-[Learning to Design](http://parhumm.github.io/presentation-learning-to-design/)
+[Learning to Design](http://parhumm.github.io/presentation-learning-to-design/) by [Parhum Khoshbakht](https://twitter.com/parhumm)
 
 [Bytecode manipulation with cglib and ASM](http://pkoperek.github.io/bytecode-presentation) by [Pawel Koperek](https://www.linkedin.com/in/pawelkoperek)
 
