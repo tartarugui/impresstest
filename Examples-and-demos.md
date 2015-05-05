@@ -136,6 +136,8 @@ Just testing this awesome plugin.
 
 [Toward the development of a web literacy map](https://dajbelshaw.makes.org/thimble/LTk3ODQ1MjIyNA==/toward-the-development-of-a-web-literacy-map-exploring-building-and-connecting-online) by [Doug Belshaw](https://dougbelshaw.com) - slides in a square which then zoom inside...
 
+[Triangulations](http://mkacz91.github.io/Triangulations) by [Marcin Kaczmarek](github.com/mkacz91) – Presentation of triangulation algorithms with live visializations ([source](https://github.com/mkacz91/Triangulations)).
+
 ## Websites and portfolios
 
 http://ivelina.comuv.com by Ivelina Dimitrova (ivelina.dimitrova@yahoo.com), Portfolio
