@@ -148,7 +148,7 @@ http://ivelina.comuv.com by Ivelina Dimitrova (ivelina.dimitrova@yahoo.com), Por
 
 [Biofib'isolation, une filière complète unique en Europe](http://www.biofib-isolation.com/filiere-complete.php) from [Biofib'isolation](http://www.biofib-isolation.com/) by [@youyouk](http://twitter.com/youyouk)
 
-[Narsis Responsive 3D Personal VCard Static Template](http://1dws.com/demo/narsis-vcard/) by [1Devs](http://1devs.com)
+<del>[Narsis Responsive 3D Personal VCard Static Template](http://1dws.com/demo/narsis-vcard/) by [1Devs](http://1devs.com)</del>
 
 [Building a Personal Website with impress.js](http://www.innovativephp.com/demo/impress-js-demos/chapter5/#/about) by [Rakhitha Nimesh](http://link.packtpub.com/4pHfi7) 
 
@@ -201,7 +201,7 @@ http://ivelina.comuv.com by Ivelina Dimitrova (ivelina.dimitrova@yahoo.com), Por
  
 [Narangi Web](http://www.narangi.it) - a new and creative web agency based in Italy - Sicily
 
-[Great Wall of Tees](http://zovi.com/wall-t) - innovative use of impress to render a 3D art gallery for  fashion e-commerce site zovi.com
+<del>[Great Wall of Tees](http://zovi.com/wall-t) - innovative use of impress to render a 3D art gallery for  fashion e-commerce site zovi.com</del>
 
 [Mistakopedia](http://mistakopedia.com) - seek knowledge explore/create/share search mindmaps. dynamic search page created with impress.js
 
