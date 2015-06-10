@@ -138,6 +138,8 @@ Just testing this awesome plugin.
 
 [Triangulations](http://mkacz91.github.io/Triangulations) by [Marcin Kaczmarek](github.com/mkacz91) – Presentation of triangulation algorithms with live visializations ([source](https://github.com/mkacz91/Triangulations)).
 
+[Deuda Técnica](https://luisgc.github.com/technical-debt-presentation) by [Luis Garcia Castro](https://github.com/LuisGC) – (Techcnical Debt presentation in Spanish using and promoting Impress.js) ([source](https://github.com/LuisGC/technical-debt-presentation)).
+
 ## Websites and portfolios
 
 http://ivelina.comuv.com by Ivelina Dimitrova (ivelina.dimitrova@yahoo.com), Portfolio
