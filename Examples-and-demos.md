@@ -140,7 +140,7 @@ Just testing this awesome plugin.
 
 [Deuda Técnica](https://luisgc.github.com/technical-debt-presentation) by [Luis Garcia Castro](https://github.com/LuisGC) – (Techcnical Debt presentation in Spanish using and promoting Impress.js) ([source](https://github.com/LuisGC/technical-debt-presentation)).
 
-[Tomorrow's IT management with OpenStack, Docker & Co](http://go.klaeser.me/dost2015) by [Alexander Kläser](https://klaeser.me) - Presentation in German, held at the German OpenStack Days (Deutsche OpenStack Tage) 2015 - For the presentation I was using several graphics as sprites at different z-positions to create a pop up card effect :)
+[Tomorrow's IT management with OpenStack, Docker & Co](http://go.klaeser.me/dost2015) by [Alexander Kläser](https://klaeser.me) - Presentation in German, held at the German OpenStack Days (Deutsche OpenStack Tage) 2015 - For the presentation I was using several graphics as sprites at different z-positions in order to create a pop up card like 3D effect :) .
 
 ## Websites and portfolios
 
