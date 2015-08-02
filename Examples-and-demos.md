@@ -144,6 +144,8 @@ Just testing this awesome plugin.
 
 ## Websites and portfolios
 
+[Es lebe der Koenig] (http://www.eslebederkoenig.com) Website for the "Es lebe der Koenig" literature event. The website was produced by [Blue Wave] (http://www.blue-wave.de) from Blue Wave's [Creators] (http://creator.blue-wave.de). Blue Wave turned the website into an interactive touchscreen installation at the event (https://youtu.be/yxloMxlisvQ). @BlueWaveUG
+
 http://ivelina.comuv.com by Ivelina Dimitrova (ivelina.dimitrova@yahoo.com), Portfolio
 
 [jgog.in](http://www.jgog.in) Website/Portfolio of [Jenil Gogari](https://github.com/jenil27), designer from Mumbai, India
