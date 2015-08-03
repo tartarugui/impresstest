@@ -1,6 +1,6 @@
 ## Official demo
 
-[impress.js demo](http://bartaz.github.com/impress.js) by [@bartaz](http://twitter.com/bartaz)
+[impress.js demo](http://impress.github.io/impress.js/) by [@bartaz](http://twitter.com/bartaz)
 
 ## Authoring tools
 
