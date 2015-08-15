@@ -142,6 +142,8 @@ Just testing this awesome plugin.
 
 [Tomorrow's IT management with OpenStack, Docker & Co](http://go.klaeser.me/dost2015) by [Alexander Kläser](https://klaeser.me) - Presentation in German, held at the German OpenStack Days ([Deutsche OpenStack Tage](http://openstack-tage.de)) 2015 - For the presentation I was using several graphics as sprites at different z-positions in order to create a pop up card like 3D effect :) . (The presentation is best viewed in Chrome/Chromium.)
 
+[Python Workshop](http://shf.github.io/Python-Workshop) by [Shayan Fahimi](https://www.linkedin.com/in/shfahimi) - Presentation of a Python Workshop at University of Tehran, created by impress.js using substeps and some geometrical calculations.
+
 ## Websites and portfolios
 
 [Es lebe der Koenig] (http://www.eslebederkoenig.com) Website for the "Es lebe der Koenig" literature event. The website was produced by [Blue Wave] (http://www.blue-wave.de) from Blue Wave's [Creators] (http://creator.blue-wave.de). Blue Wave turned the website into an interactive touchscreen installation at the event (https://youtu.be/yxloMxlisvQ). [@BlueWaveUG] (http://twitter.com/bluewaveug).
