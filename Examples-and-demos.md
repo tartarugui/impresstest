@@ -146,7 +146,7 @@ Just testing this awesome plugin.
 
 ## Websites and portfolios
 
-[soheilshiri.ir](http://soheilshiri.ir) by [@SoheilShiri](https://github.com/soheilshiri)
+[SoheilShiri.ir](http://soheilshiri.ir) by [@SoheilShiri](https://github.com/soheilshiri)
 
 [Es lebe der Koenig] (http://www.eslebederkoenig.com) Website for the "Es lebe der Koenig" literature event. The website was produced by [Blue Wave] (http://www.blue-wave.de) from Blue Wave's [Creators] (http://creator.blue-wave.de). Blue Wave turned the website into an interactive touchscreen installation at the event (https://youtu.be/yxloMxlisvQ). [@BlueWaveUG] (http://twitter.com/bluewaveug).
 
@@ -162,6 +162,7 @@ http://ivelina.comuv.com by Ivelina Dimitrova (ivelina.dimitrova@yahoo.com), Por
 
 [Building a Personal Website with impress.js](http://www.innovativephp.com/demo/impress-js-demos/chapter5/#/about) by [Rakhitha Nimesh](http://link.packtpub.com/4pHfi7) 
 
+[Panjere Conf. 2015](http://acm.ut.ac.ir/panjare) by [@SoheilShiri](https://github.com/soheilshiri)
 
 [Pongoweb.it](http://www.pongoweb.it) from creators of [PongoCMS](http://pongocms.com) Laravel bundle
 
