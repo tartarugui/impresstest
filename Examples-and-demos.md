@@ -106,7 +106,7 @@ semi graphical user interface for creating impress.js presentations. Has only ba
 
 [Les User Agents, c'est le mal !](http://rudyonweb.net/f/useragent/) [fr] by [Rudy Rigot](http://rudyonweb.net)
 
-[Speeding Up Drupal](http://ewillhite.github.com/speed-drupal) by Evan Willhite [@evanmwillhite](http://twitter.com/evanmwillhite)
+[Speeding Up Drupal](http://www.electricthread.com/speed-drupal) by Evan Willhite
 
 <del>[Take a sip of CoffeeScript](http://madsgraphics.github.com/prez-coffeescript/) [fr] by [@madsgraphics](https://twitter.com/madsgraphics)</del>
 
