@@ -102,15 +102,9 @@ semi graphical user interface for creating impress.js presentations. Has only ba
 
 [YUI3's Use and Add Methods](http://youtu.be/1iDt5mpaNXM) by [@klamping](http://twitter.com/klamping)
 
-[Gauge conditions and blackhole stability](http://kartikprabhu.com/static/talks/Gauge%20Conditions%20%26%20Stability%20in%20GR%20-%20MWRM2012/gauge2012.html) by [Kartik Prabhu](http://kartikprabhu.com/)
-
 [Les User Agents, c'est le mal !](http://rudyonweb.net/f/useragent/) [fr] by [Rudy Rigot](http://rudyonweb.net)
 
-[Speeding Up Drupal](http://www.electricthread.com/speed-drupal) by Evan Willhite
-
 <del>[Take a sip of CoffeeScript](http://madsgraphics.github.com/prez-coffeescript/) [fr] by [@madsgraphics](https://twitter.com/madsgraphics)</del>
-
-[How to build WordPress theme and plugin](http://latech.pl/latech-steel-presentation/) by [Bernard Latanowicz](http://latech.pl/contact) Open in Safari only. It's big one, so give it about 10 seconds to load. If there are too many slides on the screen in Google Chrome, the first ones disappear. If somebody knows how to fix it, let me know, please.
 
 [Faster HTML5 Apps](http://indrekv.github.com/talk) from [X-HTML5MAS Meetup](http://html5.ee/events/92739062/) by [IndrekV](http://indrekv.github.com)
 
@@ -130,11 +124,7 @@ Just testing this awesome plugin.
 
 [Demo in italiano] (http://www.xenialab.it/meo/web/white/internet/impressjs.htm#/bored) by [Meo Bogliolo](http://www.xenialab.it/meo/web/index5.htm) - The official demo with text translated into italian. I did not translate the comments since they are too cool to be changed...
 
-[Rukun Iman | Jeniv](jeniv.net/magazine/post/rukun-iman) by [Jefry Nivella](http://jeniv.net/) - A cube presentation.
-
 [Présentation d'IntraCherche pour le CRECE (démo en français)](http://www.intracherche.fr/public/Presentations/2014/Mai/) by [http://www.intracherche.fr)
-
-[Toward the development of a web literacy map](https://dajbelshaw.makes.org/thimble/LTk3ODQ1MjIyNA==/toward-the-development-of-a-web-literacy-map-exploring-building-and-connecting-online) by [Doug Belshaw](https://dougbelshaw.com) - slides in a square which then zoom inside...
 
 [Triangulations](http://mkacz91.github.io/Triangulations) by [Marcin Kaczmarek](github.com/mkacz91) – Presentation of triangulation algorithms with live visializations ([source](https://github.com/mkacz91/Triangulations)).
 
