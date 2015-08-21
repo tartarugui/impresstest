@@ -70,6 +70,8 @@ semi graphical user interface for creating impress.js presentations. Has only ba
 
 [Freelancing - My story](http://valeka.net/freelancer) by [@Valeka](http://twitter.com/ValekaVale)
 
+[Speeding Up Drupal](http://www.electricthread.com/speed-drupal) by Evan Willhite [@evanmwillhite](https://twitter.com/evanwillhite)
+
 <del>[An app is not enough](http://joakimkemeny.github.com/presentation.responsive) by Joakim Kemeny [@joakimkemeny](https://twitter.com/joakimkemeny)</del>
 
 [What the Heck is Responsive Web Design](http://johnpolacek.github.com/WhatTheHeckIsResponsiveWebDesign-impressjs/) by John Polacek [@johnpolacek](http://twitter.com/johnpolacek)
