@@ -58,13 +58,7 @@ semi graphical user interface for creating impress.js presentations. Has only ba
 
 [dreszler-development](http://www.dreszler-development.de) by [ dreszler-development](http://www.dreszler-development.de)
 
-(This domain name expired on 9/22/2014) <del>[Cool Gadget Shop](http://cool-gadget-shop.com) by [An Long Productions](http://anlongproductions.com)</del>
-
 [Hashdog: Software Factory - Brochure](http://www.hashdog.com/brochure) by [Franco Alvarez](http://www.hashdog.com/brochure)
-
-(not an Impress.js site) <del>[An Long Productions Portfolio Site](http://anlongproductions.com) by [Mitchell Valentine](http://anlongproductions.com)</del>
-
-(404 Not Found) <del>[Advanced Problem Solving](http://costamichailidis.github.io/advancedProblemSolvingSkills)  by [Costa Michailidis](http://linkedin.com/in/costamichailidis)</del>
 
 [CSS 3D transforms](http://bartaz.github.com/meetjs/css3d-summit) from [meet.js summit](http://summit.meetjs.pl) by [@bartaz](http://twitter.com/bartaz)
 
@@ -76,11 +70,7 @@ semi graphical user interface for creating impress.js presentations. Has only ba
 
 [What the Heck is Responsive Web Design](http://johnpolacek.github.com/WhatTheHeckIsResponsiveWebDesign-impressjs/) by John Polacek [@johnpolacek](http://twitter.com/johnpolacek)
 
-<del>[12412.org presentation to Digibury](http://extra.12412.org/digibury/) by Stephen Fulljames [@fulljames](http://twitter.com/fulljames)</del>
-
 [Web Application Project Workflow](http://heathdutton.github.com/wappflow/presentation) by Heath Dutton [@heathdutton](http://twitter.com/heathdutton)
-
-<del>[Data center virtualization with Wakame-VDC](http://wakame.jp/wiki/materials/20120114_TLUG/) by Andreas Kieckens [@Metallion98](https://twitter.com/#!/Metallion98)</del>
 
 [Asynchronous JavaScript](http://www.medikoo.com/asynchronous-javascript/3d/) by Mariusz Nowak [@medikoo](http://twitter.com/medikoo)
 
@@ -105,8 +95,6 @@ semi graphical user interface for creating impress.js presentations. Has only ba
 [YUI3's Use and Add Methods](http://youtu.be/1iDt5mpaNXM) by [@klamping](http://twitter.com/klamping)
 
 [Les User Agents, c'est le mal !](http://rudyonweb.net/f/useragent/) [fr] by [Rudy Rigot](http://rudyonweb.net)
-
-<del>[Take a sip of CoffeeScript](http://madsgraphics.github.com/prez-coffeescript/) [fr] by [@madsgraphics](https://twitter.com/madsgraphics)</del>
 
 [Faster HTML5 Apps](http://indrekv.github.com/talk) from [X-HTML5MAS Meetup](http://html5.ee/events/92739062/) by [IndrekV](http://indrekv.github.com)
 
