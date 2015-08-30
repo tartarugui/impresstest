@@ -35,7 +35,7 @@ Uses the igraph library in R to generate optimally positioned graphs from given 
 semi graphical user interface for creating impress.js presentations. Has only basic methods, but still under development.
 
 [XMLimpress](https://github.com/rggarcia/XMLimpress):
-Generate impress.js presentations with predesigned transitions from a XML file.
+Generates impress.js presentations with predesigned transitions from an XML file.
 
 ## Other Tools & Plugins
 
@@ -50,6 +50,8 @@ Generate impress.js presentations with predesigned transitions from a XML file.
 [impress-audio.js](https://github.com/danielsimons1/impress-audio): Small addition to impress.js to allow for html5 audio in your presentation
 
 [im_present](https://github.com/twenty-seven/im_present): Basic Firefox extensions that displays additional information to the lecturer, in another window.
+
+[impressjs2pdf](https://github.com/rggarcia/impressjs2pdf): Converts impress.js presentations (must be written using xhtml) to pdf.
 
 ## Presentations
 
