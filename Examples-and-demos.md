@@ -34,6 +34,9 @@ Uses the igraph library in R to generate optimally positioned graphs from given 
 [Beethoven](https://github.com/rohitshetty00/beethoven-melody)
 semi graphical user interface for creating impress.js presentations. Has only basic methods, but still under development.
 
+[XMLimpress](https://github.com/rggarcia/XMLimpress):
+Generate impress.js presentations with predesigned transitions from a XML file.
+
 ## Other Tools & Plugins
 
 [impress-console](https://github.com/regebro/impress-console): A speaker console with notes, preview and timers for impress.js.
