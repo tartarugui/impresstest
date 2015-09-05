@@ -29,7 +29,7 @@ now supports building basic presentations from Markdown</del> (broken link)
 Generates circular slides for impress.js presentations.
 
 [Graph / Tree Slide Generator](http://4quant.github.io/shiny-impress.js)
-Uses the igraph library in R to generate optimally positioned graphs from given connectivities and generates a presentation from these results. A live version is available [here](https://4quant.shinyapps.io/gimpress/)
+Uses the igraph library in R to generate optimally positioned graphs from given connectivities and generates a presentation from these results. <del>A live version is available [here](https://4quant.shinyapps.io/gimpress/)</del>
 
 [Beethoven](https://github.com/rohitshetty00/beethoven-melody)
 semi graphical user interface for creating impress.js presentations. Has only basic methods, but still under development.
