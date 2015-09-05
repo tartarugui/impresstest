@@ -12,7 +12,7 @@
 
 [Strut](http://strut.io/) ([source](https://github.com/tantaman/Strut)) clean extendable code base, fully client-side
 
-(This domain name expired on 11/15/2014) <del>[Impressionist](http://hsivaram.com/impressionist/0.1/) ([source](https://github.com/hsivaramx/Impressionist)) less active development lately</del>
+<del>[Impressionist](http://hsivaram.com/impressionist/0.1/) ([source](https://github.com/hsivaramx/Impressionist)) less active development lately</del> (domain name expired on 11/15/2014)
 
 [Choices & Chances](http://choiceschances.com) ([source](https://github.com/perrybutler/choiceschances)) a choose-your-own adventure platform.
 
@@ -22,8 +22,8 @@ Those are the most usable authoring tools right now. More on the [authoring tool
 
 [hovercraft!](http://regebro.github.io/hovercraft) ([source](https://github.com/regebro/hovercraft)): Lets you write your impress.js slides in restructuredText. Very good positioning and transformation support. It even provides a presenter console with a preview of the next slide, a timer and notes which are fetched directly from the slides sources.
 
-[to-textr](http://to-textr.com/slideshows/slide-shows-in-textr/):
-now supports building basic presentations from Markdown
+<del>[to-textr](http://to-textr.com/slideshows/slide-shows-in-textr/):
+now supports building basic presentations from Markdown</del> (broken link)
 
 [Circular Slides Generator](http://wmh.github.io/circular-slides-generator/)
 Generates circular slides for impress.js presentations.
