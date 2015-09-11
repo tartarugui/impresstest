@@ -37,6 +37,9 @@ semi graphical user interface for creating impress.js presentations. Has only ba
 [XMLimpress](https://github.com/rggarcia/XMLimpress):
 Generates impress.js presentations with predesigned transitions from an XML file.
 
+[niukj](https://github.com/honglio/niukj):
+An Online Authoring Platform - write & present & share your slide. (In Chinese Only)
+
 ## Other Tools & Plugins
 
 [impress-console](https://github.com/regebro/impress-console): A speaker console with notes, preview and timers for impress.js.
