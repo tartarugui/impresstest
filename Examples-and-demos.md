@@ -218,7 +218,7 @@ http://ivelina.comuv.com by Ivelina Dimitrova (ivelina.dimitrova@yahoo.com), Por
 
 [Joan Gamell's Resume and Portfolio](http://gamell.io) by [gamell](https://github.com/gamell)
 
-[Cuba en el Centro](http://www.cubaenelcentro.com) by [galopez](https://github.com/galopez). This is a website about vacations in Cuba. Each one of the tours offered features an interactive view around the island. The "interactivity" is supported by the goodies of impress.js
+<del>[Cuba en el Centro](http://www.cubaenelcentro.com) by [galopez](https://github.com/galopez). This is a website about vacations in Cuba. Each one of the tours offered features an interactive view around the island. The "interactivity" is supported by the goodies of impress.js</del>
 
 [Episode 5](http://tobecontinuedcomic.com/comics/episode_5) of [To Be Continued](http://tobecontinuedcomic.com), webcomic by Lorenzo Ghetti, website by [Carlo Trimarchi](http://www.carlotrimarchi.it/)
 
