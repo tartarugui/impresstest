@@ -40,6 +40,9 @@ Generates impress.js presentations with predesigned transitions from an XML file
 [niukj](https://github.com/honglio/niukj):
 An Online Authoring Platform - write & present & share your slide. (In Chinese Only)
 
+[SDL Tridion CMS Integration](https://community.sdl.com/developers/tridion_developer/m/mediagallery/1173)
+The DXA Impress module adds the impress.js presentation framework into DXA, so you can create and publish presentations directly from SDL Tridion. The Impress module demonstrates how a DXA module can have its own HTML design, for more details on this, you should take a look at the `impress-html-design.zip` in `100 Master\Building Blocks\Modules\Impress\Admin`
+
 ## Other Tools & Plugins
 
 [impress-console](https://github.com/regebro/impress-console): A speaker console with notes, preview and timers for impress.js.
