@@ -135,7 +135,7 @@ Just testing this awesome plugin.
 
 [Python Workshop](http://shf.github.io/Python-Workshop) by [Shayan Fahimi](https://www.linkedin.com/in/shfahimi) - Presentation of a Python Workshop at University of Tehran, created by impress.js using substeps, syntax highlight and some geometrical calculations.
 
-[git - A little tail](http://papadako.github.io/git-a-little-tale/#/title) by [Panagiotis Papadakos](http://users.ics.forth.gr/~papadako/) Presentation given at FORTH-ICS, Greece. Available in github (https://github.com/papadako/git-a-little-tale)
+[git - A little tale](http://papadako.github.io/git-a-little-tale/#/title) by [Panagiotis Papadakos](http://users.ics.forth.gr/~papadako/) Presentation given at FORTH-ICS, Greece. Available in github (https://github.com/papadako/git-a-little-tale)
 
 ## Websites and portfolios
 
