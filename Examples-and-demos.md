@@ -137,6 +137,9 @@ Just testing this awesome plugin.
 
 [git - A little tale](http://papadako.github.io/git-a-little-tale/#/title) by [Panagiotis Papadakos](http://users.ics.forth.gr/~papadako/) Presentation given at FORTH-ICS, Greece. Available in github (https://github.com/papadako/git-a-little-tale)
 
+[AngularJS 1.x](http://khaledm.com/talks/ngPresent/) 
+[Data Compression](http://khaledm.com/talks/dcPresent/)
+
 ## Websites and portfolios
 
 [SoheilShiri.ir](http://soheilshiri.ir) by [@SoheilShiri](https://github.com/soheilshiri)
