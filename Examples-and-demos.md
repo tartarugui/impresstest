@@ -37,7 +37,7 @@ semi graphical user interface for creating impress.js presentations. Has only ba
 [XMLimpress](https://github.com/rggarcia/XMLimpress):
 Generates impress.js presentations with predesigned transitions from an XML file.
 
-[niukj](https://github.com/honglio/niukj):
+<del>[niukj](https://github.com/honglio/niukj)</del>:
 An Online Authoring Platform - write & present & share your slide. (In Chinese Only)
 
 [SDL Tridion CMS Integration](https://community.sdl.com/developers/tridion_developer/m/mediagallery/1173)
