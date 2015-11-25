@@ -129,7 +129,7 @@ Just testing this awesome plugin.
 
 [Triangulations](http://mkacz91.github.io/Triangulations) by [Marcin Kaczmarek](github.com/mkacz91) – Presentation of triangulation algorithms with live visializations ([source](https://github.com/mkacz91/Triangulations)).
 
-[Deuda Técnica](https://luisgc.github.com/technical-debt-presentation) by [Luis Garcia Castro](https://github.com/LuisGC) – (Techcnical Debt presentation in Spanish using and promoting Impress.js) ([source](https://github.com/LuisGC/technical-debt-presentation)).
+[Technical Debt](https://luisgc.github.com/technical-debt-presentation) by [Luis Garcia Castro](https://github.com/LuisGC) – (Technical Debt presentation in English and Spanish using and promoting Impress.js) ([source](https://github.com/LuisGC/technical-debt-presentation)).
 
 [Tomorrow's IT management with OpenStack, Docker & Co](http://go.klaeser.me/dost2015) by [Alexander Kläser](https://klaeser.me) - Presentation in German, held at the German OpenStack Days ([Deutsche OpenStack Tage](http://openstack-tage.de)) 2015 - For the presentation I was using several graphics as sprites at different z-positions in order to create a pop up card like 3D effect :) . (The presentation is best viewed in Chrome/Chromium.)
 
