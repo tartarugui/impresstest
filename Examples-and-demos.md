@@ -59,6 +59,8 @@ The DXA Impress module adds the impress.js presentation framework into DXA, so y
 
 [impressjs2pdf](https://github.com/rggarcia/impressjs2pdf): Converts impress.js presentations (must be written using xhtml) to pdf.
 
+[impress-polygon](https://github.com/albertored/impress-polygon): Create simple slideshows with slides arranged on edges of a regular polygon.
+
 ## Presentations
 
 [Learning to Design](http://parhumm.github.io/presentation-learning-to-design/) by [Parhum Khoshbakht](https://twitter.com/parhumm)
