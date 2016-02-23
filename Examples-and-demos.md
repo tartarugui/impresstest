@@ -14,7 +14,7 @@
 
 <del>[Impressionist](http://hsivaram.com/impressionist/0.1/) ([source](https://github.com/hsivaramx/Impressionist)) less active development lately</del> (domain name expired on 11/15/2014)
 
-[Choices & Chances](http://choiceschances.com) ([source](https://github.com/perrybutler/choiceschances)) a choose-your-own adventure platform.
+<del>[Choices & Chances](http://choiceschances.com)</del> ([source](https://github.com/perrybutler/choiceschances)) a choose-your-own adventure platform. (domain name seems empty)
 
 Those are the most usable authoring tools right now. More on the [authoring tool issue](https://github.com/bartaz/impress.js/issues/5).
 
