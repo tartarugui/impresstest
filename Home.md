@@ -1,7 +1,12 @@
 Welcome to the impress.js wiki!
 
+As the project is currently reviewed for optimization and maintenance.
+To give a little bit of context, recently [a decision was made in the project](https://github.com/impress/impress.js/issues/435#issuecomment-177602861) to make the development more active and the first task is to clean up the repository, enhance the project and make it alive for good!
+
+This is why there may be some "Todos" in the Wiki (as well as other issues/PRs) that await for some kind of reformation.
+
 ## References
-* [[Javascript API]]
+* [[Javascript API]] (Todo)
 * [[HTML Attributes]]
 * [[Mobile support]]
 
