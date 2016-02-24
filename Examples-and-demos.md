@@ -4,36 +4,30 @@
 
 ## Authoring tools
 
-[Orbitale.io EasyImpress](https://github.com/Orbitale/EasyImpress): free PHP-Silex application that allows to create Impress.js presentations based on a simple `yml` file.
+**Those are the most usable authoring tools right now.** More on the [authoring tool issue](https://github.com/bartaz/impress.js/issues/5).
 
-[Strut](http://strut.io/) ([source](https://github.com/tantaman/Strut)) clean extendable code base, fully client-side.
+[Orbitale.io EasyImpress](https://github.com/Orbitale/EasyImpress): Free PHP-Silex application that allows to create Impress.js presentations based on a simple `yml` file.
 
-Those are the most usable authoring tools right now. More on the [authoring tool issue](https://github.com/bartaz/impress.js/issues/5).
+[Strut](http://strut.io/) ([source](https://github.com/tantaman/Strut)): Clean extendable code base, fully client-side.
 
 [Slide Show(S9)](http://slideshow-s9.github.io) with impress.js Template Pack ([source](https://github.com/slideshow-s9/slideshow-impress.js)): Lets you write your impress.js slides in Markdown or Textile. Uses the Slide Show (S9) Ruby gem to generate your deck.
 
-[hovercraft!](http://regebro.github.io/hovercraft) ([source](https://github.com/regebro/hovercraft)): Lets you write your impress.js slides in restructuredText. Very good positioning and transformation support. It even provides a presenter console with a preview of the next slide, a timer and notes which are fetched directly from the slides sources.
+[hovercraft!](http://regebro.github.io/hovercraft) ([source](https://github.com/regebro/hovercraft)): Lets you write your impress.js slides in rst (reStructuredText). Very good positioning and transformation support. It even provides a presenter console with a preview of the next slide, a timer and notes which are fetched directly from the slides sources.
 
-<del>[to-textr](http://to-textr.com/slideshows/slide-shows-in-textr/):
-now supports building basic presentations from Markdown</del> (broken link)
-
-[Circular Slides Generator](http://wmh.github.io/circular-slides-generator/)
+[Circular Slides Generator](http://wmh.github.io/circular-slides-generator/):
 Generates circular slides for impress.js presentations.
 
-[Graph / Tree Slide Generator](http://4quant.github.io/shiny-impress.js)
-Uses the igraph library in R to generate optimally positioned graphs from given connectivities and generates a presentation from these results. <del>A live version is available [here](https://4quant.shinyapps.io/gimpress/)</del>
+[Graph / Tree Slide Generator](http://4quant.github.io/shiny-impress.js):
+Uses the igraph library in R to generate optimally positioned graphs from given connectivities and generates a presentation from these results.
 
-[Beethoven](https://github.com/rohitshetty00/beethoven-melody)
-semi graphical user interface for creating impress.js presentations. Has only basic methods, but still under development.
+[Beethoven](https://github.com/rohitshetty00/beethoven-melody):
+Semi graphical user interface for creating impress.js presentations. Has only basic methods, but still under development (not very intuitive...).
 
 [XMLimpress](https://github.com/rggarcia/XMLimpress):
 Generates impress.js presentations with predesigned transitions from an XML file.
 
-<del>[niukj](https://github.com/honglio/niukj)</del>:
-An Online Authoring Platform - write & present & share your slide. (In Chinese Only)
-
 [SDL Tridion CMS Integration](https://community.sdl.com/developers/tridion_developer/m/mediagallery/1173)
-The DXA Impress module adds the impress.js presentation framework into DXA, so you can create and publish presentations directly from SDL Tridion. The Impress module demonstrates how a DXA module can have its own HTML design, for more details on this, you should take a look at the `impress-html-design.zip` in `100 Master\Building Blocks\Modules\Impress\Admin`
+The DXA Impress module adds the impress.js presentation framework into DXA, so you can create and publish presentations directly from SDL Tridion. The Impress module demonstrates how a DXA module can have its own HTML design, for more details on this, you should take a look at the `impress-html-design.zip` in `100 Master\Building Blocks\Modules\Impress\Admin`.
 
 ## Other Tools & Plugins
 
@@ -42,6 +36,8 @@ The DXA Impress module adds the impress.js presentation framework into DXA, so y
 [impress.js-progress](https://github.com/m4n2b/impress.js-progress): A small addition to impress.js which allows you to have a progressbar and/or the current step number and total steps. 
 
 [impress_ar.js](http://github.com/fethica/impress_ar.js): An arabic version of impress.js, adding support for language written in a Right-To-Left (RTL) direction.
+
+To check:
 
 [impress_he.js](https://github.com/r0b0k1ng/impress_he.js): An Hebrew version of impress.js, adding support for Hebrew(RTL) and new fresh background.Made by r0b0_k1ng
 
