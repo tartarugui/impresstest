@@ -6,15 +6,7 @@
 
 [Orbitale.io EasyImpress](https://github.com/Orbitale/EasyImpress): free PHP-Silex application that allows to create Impress.js presentations based on a simple `yml` file.
 
-[Azexo Composer](http://azexo.com/azexo_composer) ([source](https://github.com/azexo/Azexo-Composer-WYSIWYG)) Free jQuery plugin: WYSIWYG Drag and Drop HTML builder with integrated Impress.js. Paid and ready to use WordPress/Drupal/Joomla/HTML [versions](http://codecanyon.net/user/azexo/portfolio?ref=azexo).
-
-<del>[Dyapos](http://www.dyapos.net)</del> ([source](https://gitlab.com/edwardoyarzun/dyapos)) Graphic web editor for Impress.js, inspired on Prezi.
-
-[Strut](http://strut.io/) ([source](https://github.com/tantaman/Strut)) clean extendable code base, fully client-side
-
-<del>[Impressionist](http://hsivaram.com/impressionist/0.1/) ([source](https://github.com/hsivaramx/Impressionist)) less active development lately</del> (domain name expired on 11/15/2014)
-
-<del>[Choices & Chances](http://choiceschances.com)</del> ([source](https://github.com/perrybutler/choiceschances)) a choose-your-own adventure platform. (domain name seems empty)
+[Strut](http://strut.io/) ([source](https://github.com/tantaman/Strut)) clean extendable code base, fully client-side.
 
 Those are the most usable authoring tools right now. More on the [authoring tool issue](https://github.com/bartaz/impress.js/issues/5).
 
