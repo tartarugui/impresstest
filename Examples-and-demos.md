@@ -37,11 +37,9 @@ The DXA Impress module adds the impress.js presentation framework into DXA, so y
 
 [impress_ar.js](http://github.com/fethica/impress_ar.js): An arabic version of impress.js, adding support for language written in a Right-To-Left (RTL) direction.
 
-To check:
-
-[impress_he.js](https://github.com/r0b0k1ng/impress_he.js): An Hebrew version of impress.js, adding support for Hebrew(RTL) and new fresh background.Made by r0b0_k1ng
-
 [impress-audio.js](https://github.com/danielsimons1/impress-audio): Small addition to impress.js to allow for html5 audio in your presentation
+
+To check:
 
 [im_present](https://github.com/twenty-seven/im_present): Basic Firefox extensions that displays additional information to the lecturer, in another window.
 
