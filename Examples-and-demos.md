@@ -30,6 +30,7 @@ Generates impress.js presentations with predesigned transitions from an XML file
 The DXA Impress module adds the impress.js presentation framework into DXA, so you can create and publish presentations directly from SDL Tridion. The Impress module demonstrates how a DXA module can have its own HTML design, for more details on this, you should take a look at the `impress-html-design.zip` in `100 Master\Building Blocks\Modules\Impress\Admin`.
 
 ## Other Tools & Plugins
+[impress-full](https://github.com/Qti3e/Impress-full): Full impress with new abilities like background color's attributes and animations.
 
 [impress-console](https://github.com/regebro/impress-console): A speaker console with notes, preview and timers for impress.js.
 
