@@ -40,10 +40,6 @@ The DXA Impress module adds the impress.js presentation framework into DXA, so y
 
 [impress-audio.js](https://github.com/danielsimons1/impress-audio): Small addition to impress.js to allow for html5 audio in your presentation
 
-To check:
-
-[im_present](https://github.com/twenty-seven/im_present): Basic Firefox extensions that displays additional information to the lecturer, in another window.
-
 [impressjs2pdf](https://github.com/rggarcia/impressjs2pdf): Converts impress.js presentations (must be written using xhtml) to pdf.
 
 [impress-polygon](https://github.com/albertored/impress-polygon): Create simple slideshows with slides arranged on edges of a regular polygon.
