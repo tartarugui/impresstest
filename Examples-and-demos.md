@@ -32,6 +32,9 @@ The DXA Impress module adds the impress.js presentation framework into DXA, so y
 [Imprezi](https://github.com/Qti3e/Imprezi)
 Visual editor for Impress.js presentations
 
+[markpress](https://www.npmjs.com/package/markpress):
+Command line tool and node package to convert markdown files into self-contained impressjs presentations.
+
 ## Other Tools & Plugins
 [impress-full](https://github.com/Qti3e/Impress-full): Full impress with new abilities like background color's attributes and animations.
 
