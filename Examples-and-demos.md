@@ -52,6 +52,8 @@ Command line tool and node package to convert markdown files into self-contained
 
 ## Presentations
 
+[Slide Deck](https://github.com/cosmicjs/cosmicapp-slide-deck) by [Tony Spiro](https://twitter.com/tonyspiro) - basic example that shows how you can control everything in your slide deck from the [Cosmic JS](https://cosmicjs.com) content management platform.
+
 [Learning to Design](http://parhumm.github.io/presentation-learning-to-design/) by [Parhum Khoshbakht](https://twitter.com/parhumm)
 
 [Bytecode manipulation with cglib and ASM](http://pkoperek.github.io/bytecode-presentation) by [Pawel Koperek](https://www.linkedin.com/in/pawelkoperek)
