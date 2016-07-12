@@ -52,6 +52,11 @@ Command line tool and node package to convert markdown files into self-contained
 
 ## Presentations
 
+Demos and real world presentations by [henrikingo](http://github.com/henrikingo) ([@h_ingo](http://twitter.com/h_ingo) on Twitter):
+* Classic slides [demo](http://henrikingo.github.io/impress.js/examples/classic-slides/), [HTML & CSS with comments](https://github.com/henrikingo/impress.js/tree/myfork/examples/classic-slides): a getting started demo/tutorial for beginners.
+* With Markdown.js integration to author slides quickly in Markdown [demo](http://henrikingo.github.io/impress.js/examples/markdown/), [HTML & CSS with comments](https://github.com/henrikingo/impress.js/tree/myfork/examples/markdown)
+* [Several real world presentations I've done](http://henrikingo.github.io/presentations/)
+
 [Slide Deck](https://github.com/cosmicjs/cosmicapp-slide-deck) by [Tony Spiro](https://twitter.com/tonyspiro) - basic example that shows how you can control everything in your slide deck from the [Cosmic JS](https://cosmicjs.com) content management platform.
 
 [Learning to Design](http://parhumm.github.io/presentation-learning-to-design/) by [Parhum Khoshbakht](https://twitter.com/parhumm)
