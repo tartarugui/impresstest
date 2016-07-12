@@ -9,7 +9,7 @@
 * [Making an Impressive Product Showcase with CSS3](http://tutorialzine.com/2012/02/css3-product-showcase/)
 * [How To Use Impress.js](http://www.cubewebsites.com/blog/guides/how-to-use-impress-js/)
 * [Impress With Impress](http://www.andismith.com/blog/2012/01/impress-with-impress/)
-* [Creating a simple classic slideshow with Impress.js](henrikingo.github.io/impress.js/examples/classic-slides/) ([source](https://github.com/henrikingo/impress.js/tree/myfork/examples/classic-slides))
+* [Creating a simple classic slideshow with Impress.js](https://henrikingo.github.io/impress.js/examples/classic-slides/) ([source](https://github.com/henrikingo/impress.js/tree/myfork/examples/classic-slides))
 
 ## Books
 
