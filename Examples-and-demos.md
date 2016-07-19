@@ -139,6 +139,8 @@ Just testing this awesome plugin.
 
 [Data Compression](http://khaledm.com/talks/dcPresent/) by [Khaled Mohamed](https://github.com/KhaledMohamedP)
 
+[Linux Essential presentation](http://mlibre.github.io/linux_essential_tutorial_presentation/index.html) by mlibre
+
 ## Websites and portfolios
 
 [SoheilShiri.ir](http://soheilshiri.ir) by [@SoheilShiri](https://github.com/soheilshiri)
