@@ -141,7 +141,9 @@ Just testing this awesome plugin.
 
 [Linux Essential Presentation](http://mlibre.github.io/linux_essential_tutorial_presentation/index.html) by [mlibre](https://github.com/mlibre)
 
-[The Human Body as a Development Platform - BuzzConf 2015][http://kathyreid.github.io/buzzconf-2015-presentation/#/Introduction] by [@KathyReid](https://github.com/KathyReid)
+[The Human Body as a Development Platform - BuzzConf 2015](http://kathyreid.github.io/buzzconf-2015-presentation/#/Introduction) by [@KathyReid](https://github.com/KathyReid)
+
+[Levelling up your Open Source Career - Open Source Developers' Conference 2015](http://kathyreid.github.io/osdc-2015-presentation/#/Introduction) by [@KathyReid](https://github.com/KathyReid)
 
 ## Websites and portfolios
 
