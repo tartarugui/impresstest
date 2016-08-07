@@ -235,6 +235,8 @@ http://ivelina.comuv.com by Ivelina Dimitrova (ivelina.dimitrova@yahoo.com), Por
 
 [Episode 5](http://tobecontinuedcomic.com/comics/episode_5) of [To Be Continued](http://tobecontinuedcomic.com), webcomic by Lorenzo Ghetti, website by [Carlo Trimarchi](http://www.carlotrimarchi.it/)
 
+[FS Millbank. A wayfinding typeface.](http://www.fsmillbank.com/)
+
 ## Contribute
 
 [CSS animation] (http://db.tt/0uYicjlM) by Jivan Shrestha(http://jivanshr.com.np)
