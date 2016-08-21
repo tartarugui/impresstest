@@ -57,6 +57,7 @@ Demos and real world presentations by [henrikingo](http://github.com/henrikingo)
 * With Markdown.js integration to author slides quickly in Markdown [demo](http://henrikingo.github.io/impress.js/examples/markdown/), [HTML & CSS with comments](https://github.com/henrikingo/impress.js/tree/myfork/examples/markdown)
 * [Several real world presentations I've done](http://henrikingo.github.io/presentations/)
 
+[Git from the inside](https://github.com/neuhalje/git-from-the-inside) an introduction into `git` with lots of SVG images and Grunt build script.
 [Slide Deck](https://github.com/cosmicjs/cosmicapp-slide-deck) by [Tony Spiro](https://twitter.com/tonyspiro) - basic example that shows how you can control everything in your slide deck from the [Cosmic JS](https://cosmicjs.com) content management platform.
 
 [Learning to Design](http://parhumm.github.io/presentation-learning-to-design/) by [Parhum Khoshbakht](https://twitter.com/parhumm)
