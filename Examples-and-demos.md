@@ -239,6 +239,8 @@ http://ivelina.comuv.com by Ivelina Dimitrova (ivelina.dimitrova@yahoo.com), Por
 
 [FS Millbank. A wayfinding typeface.](http://www.fsmillbank.com/)
 
+[Random Quote Machine Example](http://codepen.io/ricardona/full/JKgWdP/) by Ricardo Cardona R
+
 ## Contribute
 
 [CSS animation] (http://db.tt/0uYicjlM) by Jivan Shrestha(http://jivanshr.com.np)
