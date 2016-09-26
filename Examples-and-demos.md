@@ -35,6 +35,9 @@ Visual editor for Impress.js presentations
 [markpress](https://www.npmjs.com/package/markpress):
 Command line tool and node package to convert markdown files into self-contained impressjs presentations.
 
+[**[ Oi ]**](https://oawan.me/Oi): 
+A WYSIWYG Editor to create slides in impress.js, this editor create by React and Redux.
+
 ## Other Tools & Plugins
 [impress-full](https://github.com/Qti3e/Impress-full): Full impress with new abilities like background color's attributes and animations.
 
