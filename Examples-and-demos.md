@@ -53,6 +53,8 @@ A WYSIWYG Editor to create slides in impress.js, this editor create by React and
 
 [impress-polygon](https://github.com/albertored/impress-polygon): Create simple slideshows with slides arranged on edges of a regular polygon.
 
+[decktape](https://github.com/astefanutti/decktape): PDF exporter for HTML presentations that supports impress.js.
+
 ## Presentations
 
 Demos and real world presentations by [henrikingo](http://github.com/henrikingo) ([@h_ingo](http://twitter.com/h_ingo) on Twitter):
