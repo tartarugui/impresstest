@@ -6,7 +6,7 @@
 
 **Those are the most usable authoring tools right now.** More on the [authoring tool issue](https://github.com/bartaz/impress.js/issues/5).
 
-[Orbitale.io EasyImpress](https://github.com/Orbitale/EasyImpress/tree/v1) (v1): Free PHP-Silex application that allows to create Impress.js presentations based on a simple `yml` file.
+[Orbitale.io EasyImpress](https://github.com/Orbitale/EasyImpress/tree/v1) (v1): Free PHP-Silex application that allows to create Impress.js presentations based on a simple `yml` file.<br>
 [Orbitale.io EasyImpress](https://github.com/Orbitale/EasyImpress) (v2): Free Symfony 3.1 application that allows to create Impress.js presentations based on a simple `yml` file.
 
 [Strut](http://strut.io/) ([source](https://github.com/tantaman/Strut)): Clean extendable code base, fully client-side.
