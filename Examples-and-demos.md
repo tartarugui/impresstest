@@ -39,6 +39,9 @@ Command line tool and node package to convert markdown files into self-contained
 [**[ Oi ]**](https://oawan.me/Oi): 
 A WYSIWYG Editor to create slides in impress.js, this editor create by React and Redux.
 
+[ShowPreper](https://abbr.github.io/ShowPreper/):
+Yet another FOSS WYSIWYG fully client-side editor for both impress.js and bespoke.js - inspired by Strut.
+
 ## Other Tools & Plugins
 [impress-full](https://github.com/Qti3e/Impress-full): Full impress with new abilities like background color's attributes and animations.
 
